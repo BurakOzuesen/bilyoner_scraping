@@ -1,0 +1,795 @@
+train_index,match_date,match_time,tournament,match_id,homeTeam,awayTeam,firstHalfHomeGoal,firstHalfAwayGoal,totalHomeGoal,totalAwayGoal,homeCorner,awayCorner,index,distance
+39,2025-05-18,15:00:00,İsveç Lig 2,2129801,Karlskrona,Rappe Goif,,,,,,,39,0.1630950643030009
+456,2025-05-18,20:00:00,Macaristan NB II,2129600,Gyirmot Gyor,Kozarmisleny,,,,,,,456,0.35327043465311403
+198,2025-05-16,21:15:00,İsviçre Challenge Ligi,2125807,Vaduz,Schaffhausen,0.0,0.0,1.0,0.0,,,198,0.3630426972134272
+504,2025-05-16,18:00:00,Slovakya 2. Lig,2125792,FK Puchov,A. Petrzalka,3.0,1.0,3.0,1.0,,,504,0.5679788728465168
+649,2025-05-18,18:00:00,Çekya 1. Lig Şamp. Turu,2143660,Jablonec,Slavia Prag,,,,,,,649,0.8189017035029295
+754,2025-05-18,18:00:00,Macaristan NB II,2129606,Szentlorinc,FC Tatabanya,,,,,,,754,0.9630680142129113
+54,2025-05-18,21:00:00,İzlanda Lig 1,2125704,T Reykjavik,Grindavik,,,,,,,54,0.9721111047611789
+167,2025-05-18,17:00:00,Hırvatistan 1. HNL,2127054,NK Slaven,HNK Gorica,,,,,,,167,0.9805100713404221
+330,2025-05-18,14:00:00,İsveç 2.Lig Batı Gotaland,2129813,Astorps FF,Laholms FK,2.0,0.0,2.0,0.0,,,330,1.0056838469419702
+613,2025-05-17,14:30:00,Estonya Premium Ligi,2127139,Parnu Vaprus,Tartu JK Tam,2.0,1.0,2.0,1.0,,,613,1.016021653312566
+771,2025-05-18,18:00:00,Polonya 1. Lig,2127482,Z. Pruszkow,Stal Rzeszow,,,,,,,771,1.0793979803575695
+687,2025-05-16,21:30:00,Macaristan 1. Ligi,2127316,Ujpest,Nyiregyhaza S.,1.0,1.0,2.0,2.0,,,687,1.1493911431710269
+93,2025-05-16,19:00:00,Hırvatistan 1. HNL,2127050,Istra 61,Sibenik,2.0,0.0,3.0,0.0,,,93,1.4015705476357583
+704,2025-05-17,21:30:00,İsviçre Süper Lig Düşme Turu,2147970,Sion,Grasshoppers,0.0,0.0,2.0,1.0,,,704,1.4227789708876075
+270,2025-05-17,18:55:00,Suudi Profesyonel Ligi,2162465,Al Ettifaq,Damac,0.0,0.0,0.0,0.0,,,270,1.4530313141842472
+29,2025-05-19,21:00:00,Uruguay Primera Ligi,2164060,R. Montevideo,Miramar Misiones,,,,,,,29,1.522760650923184
+355,2025-05-17,09:30:00,Avustralya NPL NNSW (2.Lig),2126923,Weston Workers,Charlestown City,,,,,,,355,1.6413409152275467
+399,2025-05-16,20:30:00,İsveç Lig 1,2165432,FC Arlanda,Sollentuna,1.0,1.0,2.0,2.0,,,399,1.7109646401957
+629,2025-05-17,19:00:00,İsviçre Süper Lig Düşme Turu,2147973,St. Gallen,Zürih,3.0,2.0,3.0,2.0,,,629,1.7204941150727602
+421,2025-05-18,02:00:00,Uruguay Primera Ligi,2164066,Penarol,Torque,1.0,1.0,2.0,1.0,,,421,1.7357131099349332
+276,2025-05-18,17:00:00,İzlanda Urvalsdeild,2129611,Fram Rey.,IF Vestri,,,,,,,276,1.745709025009609
+478,2025-05-16,22:15:00,İzlanda Lig 1,2125707,UMF Njardvik,Ir Reykjavik,1.0,1.0,1.0,1.0,,,478,1.747111902540877
+353,2025-05-18,21:00:00,Uruguay Primera Ligi,2164061,Nacional,D. Sporting,,,,,,,353,1.7514850841500198
+783,2025-05-17,01:00:00,Bolivya Profesyonel Ligi,2129271,Nacional Potosi,Aurora,3.0,1.0,3.0,1.0,,,783,1.780786343164165
+646,2025-05-16,20:15:00,İsveç Lig 2,2125804,Herrestads AIF,Vanersborgs,3.0,0.0,3.0,0.0,,,646,1.7851610571598293
+746,2025-05-17,15:00:00,İsveç 2.Lig Kuzey Svealand,2127673,Taby FK,Bollstanas SK,2.0,4.0,2.0,4.0,,,746,1.8074014495955235
+733,2025-05-17,03:30:00,Bolivya Profesyonel Ligi,2129267,Real Tomayapo,Ind. Petrolero,3.0,3.0,3.0,3.0,,,733,1.808092917966331
+751,2025-05-17,18:30:00,Polonya 1. Lig,2127483,Polonia Varş,LKS Lodz,0.0,1.0,0.0,1.0,,,751,1.839130229211624
+351,2025-05-17,16:00:00,Portekiz 2. Lig,2125776,Felgueiras 1932,Oliveirense,2.0,1.0,2.0,1.0,,,351,1.8397554185271483
+75,2025-05-17,19:30:00,Sırbistan Superliga - Şampiyonluk Turu,2127612,Tsc Backa To,OFK Belgrad,3.0,2.0,3.0,2.0,,,75,1.851674917473367
+175,2025-05-19,02:00:00,ABD USL Lig 1 (3.Lig),2129868,Spokane Velocity FC,Richmond,,,,,,,175,1.8681809334215997
+782,2025-05-17,11:15:00,Avustralya NPL Victoria (2.Lig),2126938,Altona Magic,Melbourne Victory Ge,1.0,0.0,1.0,0.0,,,782,1.870240626229684
+380,2025-05-18,21:00:00,Uruguay Primera Ligi,2164064,Liver. Montevideo,Cerro Largo,,,,,,,380,1.8853646862079492
+605,2025-05-17,18:00:00,Hırvatistan 1. HNL,2127051,VSN Varazdin,Osijek,2.0,1.0,2.0,1.0,,,605,1.8892855792600542
+33,2025-05-18,08:00:00,Avustralya NPL NSW (2.Lig),2129254,Apia Leic,Sydney Oly.,2.0,0.0,2.0,0.0,,,33,1.902077811236964
+191,2025-05-17,17:00:00,İsveç Lig 1,2168770,Karlbergs BK,Gefle,0.0,1.0,0.0,1.0,,,191,1.9073804025416643
+387,2025-05-17,14:15:00,Danimarka 3.Ligi - Düşme Turu,2143671,Lyseng IF,Silkeborg Kfum,3.0,1.0,3.0,1.0,,,387,1.919010161515566
+132,2025-05-16,19:00:00,Letonya Virsliga,2125742,SK Super Nova,FK Tukums 2000/Tss,0.0,1.0,1.0,1.0,,,132,1.9205467971387733
+390,2025-05-20,01:00:00,Uruguay Primera Ligi,2164062,Boston River,Ca Cerro,,,,,,,390,1.935510268637188
+88,2025-05-19,22:00:00,Şili Primera Ligi,2129398,Un. Espanola,Everton DV,,,,,,,88,1.945404842185811
+367,2025-05-17,08:00:00,Avustralya NPL Victoria (2.Lig),2126937,Avondale FC,Oakleigh C.,3.0,0.0,3.0,0.0,,,367,1.9550447565209348
+540,2025-05-16,20:00:00,İsveç Lig 2,2125796,Kristianstad,Linero IF,2.0,1.0,2.0,1.0,,,540,1.960637651377735
+294,2025-05-17,15:00:00,2.Lig Güney Norrland,2145190,Gottne IF,Kubikenborgs IF,1.0,2.0,1.0,2.0,,,294,1.9795706605221246
+602,2025-05-17,08:00:00,Güney Kore K-Lig 3,2127667,Mokpo City,Jeonbuk FC II,1.0,1.0,1.0,1.0,,,602,2.004669548828435
+149,2025-05-16,20:00:00,İsveç Lig 1,2125798,Norrby,Trollhattan,0.0,0.0,1.0,1.0,,,149,2.0129580224137817
+27,2025-05-18,07:00:00,Avustralya NPL NNSW (2.Lig),2129242,Broad. Magic,Edgeworth,,,,,,,27,2.015539629975059
+25,2025-05-18,19:00:00,Türkiye Süper Lig,2129827,Antalyaspor,Gaziantep,,,,,,,25,2.020148509392317
+565,2025-05-18,02:15:00,Honduras Ulusal Ligi - Play-Off,2172185,Real CD Espana,Motagua,2.0,0.0,2.0,0.0,,,565,2.0255616505058542
+209,2025-05-18,09:00:00,Avustralya NPL Queensland (2.Lig),2129245,Peninsula P.,Olympic,,,,,,,209,2.026672149115391
+394,2025-05-16,19:40:00,Suudi Profesyonel Ligi,2123390,AL Orouba SC,AL Khaleej,1.0,1.0,1.0,2.0,,,394,2.0607037632808844
+210,2025-05-17,11:30:00,Avustralya Victoria NPL 2,2126936,FC Melbourne Srbija,Kingston Cit,3.0,2.0,3.0,2.0,,,210,2.07552403021502
+673,2025-05-17,21:15:00,Peru Primera Ligi,2147958,Cajamarca,Comerciantes Unidos,1.0,0.0,2.0,0.0,,,673,2.0894496883150833
+499,2025-05-16,21:15:00,İsviçre Challenge Ligi,2125811,Std. Nyonnis,N. Xamax,1.0,2.0,1.0,3.0,,,499,2.1051840774621113
+424,2025-05-17,10:00:00,Avustralya NPL Queensland (2.Lig),2126925,S. C. Wanderers,ST George Willawong ,2.0,3.0,2.0,3.0,,,424,2.1114686831681877
+729,2025-05-17,19:30:00,Sırbistan Superliga - Şampiyonluk Turu,2127614,FK Vojvodina,Radnicki,0.0,0.0,0.0,0.0,,,729,2.1152068456772732
+356,2025-05-18,19:00:00,Türkiye Süper Lig,2129828,Bodrum FK,Trabzonspor,,,,,,,356,2.1469979040511427
+765,2025-05-19,19:00:00,Katar Emir Kupası,2174764,Al Gharrafa,UMM Salal,,,,,,,765,2.1560148422494683
+28,2025-05-16,20:30:00,İsveç 2.Lig Kuzey Svealand,2125797,FC Nacka Iliria,Skiljebo SK,4.0,0.0,4.0,0.0,,,28,2.1641395518773736
+96,2025-05-16,18:00:00,Slovakya 2. Lig,2125789,Stk Samorin,FK Raven Povazska By,0.0,1.0,0.0,1.0,,,96,2.1695391215647617
+497,2025-05-18,18:00:00,Macaristan NB II,2129601,Bekescsaba,Budafoki Mte,,,,,,,497,2.182521477557552
+447,2025-05-17,08:00:00,Japonya J3 (3.Lig),2127375,Kagoshima Utd.,Fukushima Utd.,5.0,0.0,5.0,0.0,,,447,2.1833689564523904
+543,2025-05-18,19:00:00,Türkiye Süper Lig,2129825,Kasımpaşa,Başakşehir,,,,,,,543,2.212668072712218
+357,2025-05-19,20:00:00,Polonya 1. Lig,2127489,M. Legnica,Nieciecza,,,,,,,357,2.2286543024883874
+298,2025-05-18,07:30:00,Avustralya NPL Güney (2.Lig),2129256,Adelaide Comets,West Torrens Birkall,0.0,1.0,0.0,1.0,,,298,2.2388836503936513
+728,2025-05-17,19:00:00,İzlanda Lig 1,2127332,UMF Selfoss,Völsungur,1.0,2.0,1.0,2.0,,,728,2.2553491969094273
+443,2025-05-17,17:00:00,İsveç Lig 1,2127674,Jönköpings,Rosengaard ,3.0,0.0,3.0,0.0,,,443,2.265744910619905
+119,2025-05-16,16:00:00,Ruanda Ulusal Lig,2125838,Kiyovu Sport,Rutsiro FC,2.0,1.0,2.0,1.0,,,119,2.288645887855961
+282,2025-05-17,15:00:00,2.Lig Kuzey Norrland,2139719,Skelleftea,Bergnasets Aik,4.0,1.0,4.0,1.0,,,282,2.2924222996647017
+678,2025-05-17,14:00:00,Danimarka 3.Ligi - Yükselme Turu,2143674,Holbaek,Odder,2.0,0.0,2.0,0.0,,,678,2.2992172581119865
+483,2025-05-18,22:00:00,Bolivya Profesyonel Ligi,2129266,San Antonio Bulo Bul,Blooming,,,,,,,483,2.3092856038177696
+460,2025-05-17,17:00:00,Litvanya 1. Ligi,2127400,Panevezys,Riteriai,3.0,0.0,3.0,0.0,,,460,2.336065067586945
+204,2025-05-18,17:00:00,İzlanda Urvalsdeild,2129610,Vestmannaeyjar,KA Akureyri,,,,,,,204,2.33811890202359
+680,2025-05-18,02:00:00,Peru Primera Ligi,2147952,RL Garcilaso,Cultural San,2.0,2.0,3.0,3.0,,,680,2.344525538355255
+679,2025-05-16,18:30:00,Litvanya Lig 1,2125746,Be1 Nfa,FK Ekranas,0.0,1.0,0.0,1.0,,,679,2.3522967499871275
+582,2025-05-18,08:00:00,Avustralya NPL Başkent (2.Lig),2129252,Canberra FC,Monaro Panthers,3.0,0.0,3.0,0.0,,,582,2.3543576618687307
+484,2025-05-16,18:30:00,Cezayir 1. Lig,2157669,Olympique Akbou,USM Khenchela,1.0,0.0,2.0,1.0,,,484,2.393720952826373
+299,2025-05-17,17:00:00,Portekiz 3. Lig Yükselme Turu,2127500,Belenenses,Lusitania,1.0,1.0,1.0,1.0,,,299,2.4026859969625662
+345,2025-05-18,16:00:00,İsveç Lig 2,2129802,IFK Trelleborg,Osterlen,,,,,,,345,2.4079451821002906
+146,2025-05-16,20:00:00,İsveç Lig 2,2125794,Vaxjo Norra,Solvesborgs GoIF,2.0,1.0,2.0,1.0,,,146,2.4331872102244825
+506,2025-05-18,17:00:00,İngiltere Premier Lig,2129464,Leicester,Ipswich T.,,,,,,,506,2.440061474635424
+583,2025-05-17,15:00:00,Danimarka 3.Ligi - Yükselme Turu,2143672,Brabrand,VSK Aarhus,1.0,1.0,1.0,1.0,,,583,2.4438085031360375
+165,2025-05-20,01:30:00,Peru Primera Ligi,2148040,Dep. Binacional,Cienciano,,,,,,,165,2.4445040396775783
+288,2025-05-17,08:00:00,Japonya J3 (3.Lig),2127376,Thespakusatsu,Kochi Utd.,2.0,2.0,2.0,2.0,,,288,2.470769111025958
+637,2025-05-17,14:00:00,Danimarka 3.Ligi - Düşme Turu,2143669,Avarta,Holstebro BK,2.0,5.0,2.0,5.0,,,637,2.4755807399476994
+450,2025-05-17,23:30:00,Peru Primera Ligi,2147959,S. Cristal,ADT de Tarma,1.0,1.0,2.0,1.0,,,450,2.484592521923866
+536,2025-05-17,08:00:00,Güney Kore K-Lig 3,2127668,Siheung Citizen,Yangpyeong,0.0,0.0,0.0,0.0,,,536,2.496116984438029
+303,2025-05-19,22:15:00,İzlanda Urvalsdeild,2131235,Breidablik K.,V. Reykjavik,,,,,,,303,2.5052544780919965
+690,2025-05-17,07:00:00,Avustralya NPL NNSW (2.Lig),2126922,Adamstown Rosebud FC,Belmont Swansea Unit,,,,,,,690,2.5102191139420476
+222,2025-05-17,08:00:00,Japonya J3 (3.Lig),2127373,Tochigi City,Gifu,1.0,0.0,1.0,0.0,,,222,2.515432368401106
+772,2025-05-17,15:00:00,Danimarka 3.Ligi - Yükselme Turu,2143673,Naesby,Bronshoj,2.0,1.0,2.0,1.0,,,772,2.516286947071021
+654,2025-05-18,21:15:00,Peru Primera Ligi,2148037,Huancayo,Sport Boys,,,,,,,654,2.5253910588263353
+157,2025-05-16,21:15:00,İsviçre Challenge Ligi,2125810,Wil 1900,Stade Ouchy,0.0,1.0,0.0,2.0,,,157,2.5625182926176353
+176,2025-05-17,03:30:00,Venezuela Primera Lig Açılış Ana Tur,2157746,Portuguesa,Academia Anzoategui ,0.0,0.0,0.0,0.0,,,176,2.57270285886264
+340,2025-05-17,18:00:00,Çekya 1. Lig Düşme Turu,2143667,Pardubice,M. Boleslav,2.0,1.0,2.0,1.0,,,340,2.609061133818064
+500,2025-05-18,23:00:00,ABD USL Lig 2 (4.Lig),2127773,San Fran,Monterey Bay FC Usl ,,,,,,,500,2.612795437840475
+568,2025-05-17,17:00:00,Portekiz 3. Lig Yükselme Turu,2127501,Varzim,AD Fafe,5.0,3.0,5.0,3.0,,,568,2.634843448859913
+494,2025-05-17,17:00:00,İsveç Lig 2,2127695,Lidkopings,Grebbestads,2.0,1.0,2.0,1.0,,,494,2.638920233731971
+526,2025-05-18,10:00:00,Avustralya NPL Victoria (2.Lig),2129249,S. Melbourne,Melb. Sharks,0.0,2.0,0.0,2.0,,,526,2.643463636973279
+212,2025-05-18,00:30:00,"Ekvador Pro Lig, İlk Etap",2127125,Mushuc Runa,Orense SC,2.0,2.0,2.0,5.0,,,212,2.6559932228829197
+375,2025-05-17,10:30:00,Avustralya NPL NSW (2.Lig),2126941,NWS Spirit,Druitt Tw Rg,5.0,0.0,5.0,0.0,,,375,2.683859161729617
+731,2025-05-18,04:00:00,Meksika Liga de Expa. MX Kapanış,2169908,Tampico Madero,Leones Negros,2.0,1.0,2.0,1.0,,,731,2.6920438332241177
+147,2025-05-17,22:00:00,Şili Primera Ligi,2129404,Cobresal,Audax Ital.,0.0,1.0,0.0,1.0,,,147,2.704459280521709
+750,2025-05-18,16:00:00,Letonya Lig 1,2129646,FK Rfs II,Jfk Ventspils,,,,,,,750,2.7121578125175536
+45,2025-05-17,14:00:00,Vietnam V-Ligi,2127811,SHB Da Nang,Quang Nam FC,1.0,0.0,1.0,0.0,,,45,2.7142402251827304
+182,2025-05-16,17:00:00,Faroe Adaları Premier Ligi,2125657,07 Vestur Sorvagur,TB Tvoeroyri,5.0,0.0,5.0,0.0,,,182,2.716321041408765
+38,2025-05-18,17:00:00,İsveç Lig 1,2129807,Assyriska FF,Eskilstuna,,,,,,,38,2.749727259202265
+169,2025-05-17,13:00:00,Portekiz 3. Lig Yükselme Turu,2127499,Atletico CP,1 Dezembro,1.0,2.0,1.0,2.0,,,169,2.7587315925983087
+337,2025-05-16,19:30:00,Norveç Lig 3,2125758,Orn Horten,Fram Larvik,1.0,1.0,1.0,1.0,,,337,2.773643812748854
+717,2025-05-17,17:00:00,İsveç 2.Lig Batı Gotaland,2127685,Varbergs Gif FK,Landvetter IS,2.0,1.0,2.0,1.0,,,717,2.7778228885225924
+720,2025-05-18,13:00:00,"Segunda RFEF, Yükselme Playoff",2164049,CP Cacereno,Real Avila CF,2.0,0.0,2.0,0.0,,,720,2.7835409104232682
+569,2025-05-17,13:00:00,Portekiz 2. Lig,2125775,Porto B,SL Benfica B,1.0,4.0,1.0,4.0,,,569,2.7936177261751474
+710,2025-05-19,20:00:00,Polonya 1. Lig,2127488,C. Glogow,Ruch Chorzow,,,,,,,710,2.8009462686742133
+221,2025-05-18,00:30:00,Bolivya Profesyonel Ligi,2129270,J. Wilsterman,Univ. de Vinto,0.0,2.0,0.0,2.0,,,221,2.8092169727523713
+190,2025-05-16,20:00:00,İsveç Lig 1,2129806,IFK Skovde FK,Husqvarna,2.0,0.0,5.0,0.0,,,190,2.8439409276565506
+722,2025-05-17,21:00:00,Macaristan 1. Ligi,2127317,Diosgyör,MTK Budapeşte,2.0,1.0,2.0,1.0,,,722,2.848280182847186
+230,2025-05-17,10:00:00,Avustralya NPL Batı (2.Lig),2126931,Western Knights SC,Fremantle City,3.0,2.0,3.0,2.0,,,230,2.851771379336008
+652,2025-05-16,20:30:00,İsveç Lig 2,2125805,IFK Kumla FK,IK Tord,3.0,1.0,3.0,1.0,,,652,2.851964235399876
+775,2025-05-16,16:00:00,U23 Revelacao Kupası,2168305,Torreense U23,Farense U23,1.0,0.0,1.0,0.0,,,775,2.857498906386492
+369,2025-05-17,18:00:00,Çekya 1. Lig Düşme Turu,2143666,Dinamo Bud.,Teplice,0.0,3.0,0.0,3.0,,,369,2.870853531617383
+630,2025-05-18,18:00:00,İsveç 2.Lig Batı Gotaland,2129811,Qviding F,Lindome,,,,,,,630,2.873951982897418
+660,2025-05-18,16:00:00,Litvanya 1. Ligi,2129655,Siauliai,Ban Gargzdai,,,,,,,660,2.9321152774063988
+304,2025-05-19,20:00:00,2.Lig Kuzey Norrland,2139725,Bodens Bk,Luleaa,,,,,,,304,2.9349787052038385
+635,2025-05-17,11:00:00,Avustralya Victoria NPL 2,2126934,Caroline Springs Geo,Langwarrin SC,5.0,1.0,5.0,1.0,,,635,2.9506609429075374
+361,2025-05-18,00:30:00,Şili Primera Ligi,2129400,O'Higgins,U. Catolica,1.0,0.0,2.0,0.0,,,361,2.9508134471701184
+625,2025-05-17,17:00:00,İsveç Lig 1,2127677,Hassleholms,Torslanda,2.0,0.0,2.0,0.0,,,625,2.9860341592151953
+614,2025-05-18,17:00:00,Rusya Ulusal Ligi,2127596,Shinnik,Sokol,,,,,,,614,2.9894313840595172
+759,2025-05-17,21:00:00,Uruguay Primera Ligi,2164067,CA River Plate,Montevideo,0.0,1.0,0.0,1.0,,,759,3.0113452143518846
+9,2025-05-18,18:00:00,Macaristan NB II,2129599,Bvsc-Zuglo,FC Ajka,,,,,,,9,3.0303630145578273
+420,2025-05-18,15:00:00,Rusya Ulusal Ligi,2127599,Ufa,Arsenal Tula,,,,,,,420,3.0381408788928796
+334,2025-05-18,13:00:00,"Segunda RFEF, Yükselme Playoff",2164055,Talavera R,Utebo FC,,,,,,,334,3.048409421321224
+329,2025-05-18,16:00:00,Kazakistan Premier Ligi,2127382,Tobol,Ordabasy,,,,,,,329,3.059379021958541
+437,2025-05-19,01:00:00,"Ekvador Pro Lig, İlk Etap",2129459,Barcelona SC,CS Emelec,,,,,,,437,3.061764197321537
+656,2025-05-20,03:30:00,Şili Primera Ligi,2129402,D. La Serena,Dep. Iquique,,,,,,,656,3.081606723772519
+707,2025-05-18,14:30:00,Estonya Premium Ligi,2129479,Flora T.,Levadia Tall.,,,,,,,707,3.093218388668993
+150,2025-05-18,20:00:00,Macaristan NB II,2129605,Budapest Honved,Kisvarda,,,,,,,150,3.098580320082086
+291,2025-05-18,04:30:00,Honduras Ulusal Ligi - Play-Off,2172184,Olimpia,CD Victoria,2.0,1.0,2.0,1.0,,,291,3.106444913401814
+94,2025-05-18,20:00:00,Macaristan NB II,2129604,Aqvital Csakvar,Soroksar SC,,,,,,,94,3.112683729517023
+138,2025-05-17,08:00:00,Rusya Ulusal Ligi,2127598,SKA-Khabaro.,Rodina Moscow,1.0,0.0,1.0,0.0,,,138,3.12064095980297
+588,2025-05-17,17:25:00,Litvanya 1. Ligi,2129654,Zalgiris,Zalgiris V.,3.0,0.0,3.0,0.0,,,588,3.1267395158535356
+309,2025-05-17,08:30:00,Avustralya NPL Güney (2.Lig),2126944,Para Hills Knights S,White City B.,2.0,4.0,2.0,4.0,,,309,3.1295047531518465
+792,2025-05-18,17:00:00,İzlanda Lig 2,2125701,Kari,Grotta,,,,,,,792,3.153807223024261
+766,2025-05-18,18:00:00,Sırbistan Superliga - Düşme Turu,2127607,Napredak,Radnicki Nis,,,,,,,766,3.155867551086389
+491,2025-05-17,23:15:00,Uruguay Primera Ligi,2164065,Plaza Colonia,Danubio,,,,,,,491,3.1597151770373224
+196,2025-05-16,23:30:00,Peru Primera Ligi,2147955,Alianza Atl.,Dep. Garcilaso,1.0,0.0,1.0,0.0,,,196,3.187600978792672
+608,2025-05-18,01:30:00,Paraguay Primera Ligi,2157719,Libertad,Sportivo Trinidense,0.0,0.0,1.0,1.0,,,608,3.2073976990700728
+265,2025-05-18,03:00:00,"Ekvador Pro Lig, İlk Etap",2129461,CSD Macara,El Nacional,1.0,1.0,1.0,1.0,,,265,3.2116973705503447
+232,2025-05-18,19:00:00,"Segunda RFEF, Yükselme Playoff",2164057,Numancia,Getafe B,,,,,,,232,3.236155126071678
+685,2025-05-17,23:00:00,Paraguay Primera Ligi,2157717,N. Asuncion,Sportivo Luqueno,4.0,0.0,4.0,0.0,,,685,3.2395678724175547
+546,2025-05-16,23:00:00,Paraguay Primera Ligi,2157721,CD Recoleta,CA Tembetary,0.0,0.0,1.0,1.0,,,546,3.2521223839209985
+533,2025-05-18,08:00:00,Avustralya NPL NSW (2.Lig),2129253,Rockdale,Sydney II,2.0,1.0,2.0,1.0,,,533,3.28062494046485
+187,2025-05-18,21:00:00,Uruguay Primera Ligi,2164063,CA Progreso,Juventud,,,,,,,187,3.2916409281694134
+341,2025-05-19,13:00:00,Kenya Premier Ligi,2127390,Bidco United,Kenya Com,,,,,,,341,3.302226521606294
+257,2025-05-19,00:00:00,Kosta Rika Primera - Play-Out,2173713,Saprissa,Alajuelense,,,,,,,257,3.304739021465992
+694,2025-05-16,21:15:00,İsviçre Challenge Ligi,2125808,Bellinzona,Thun,1.0,0.0,3.0,1.0,,,694,3.319457787048963
+748,2025-05-18,02:30:00,"Primera Lig, Açılış, Ana Tur B",2157749,Metropolitan,Puerto Cabello,1.0,1.0,1.0,1.0,,,748,3.3257931384859165
+530,2025-05-18,19:30:00,"Bulgar. Parva Ligi, Şamp. Turu",2143656,Arda Kardzha,Cherno More,,,,,,,530,3.3262591600775786
+87,2025-05-18,08:00:00,Avustralya Victoria NPL 2,2129247,Melbourne City U21,Manningham United Bl,1.0,1.0,1.0,1.0,,,87,3.3291139962458485
+591,2025-05-16,19:00:00,Norveç 1.Ligi,2125764,Lillestrom,Kongsvinger,2.0,0.0,2.0,0.0,,,591,3.363272216160923
+69,2025-05-18,08:00:00,Avustralya NPL Victoria (2.Lig),2129250,ST Albans Saints,Dandenong Ct,1.0,3.0,1.0,3.0,,,69,3.4314865583300778
+174,2025-05-18,20:00:00,Moldova Süper Ligi Şamp. Turu,2152227,Sheriff,FC Milsami,,,,,,,174,3.475471191076111
+647,2025-05-18,18:00:00,"Segunda RFEF, Yükselme Playoff",2164052,Sant Andreu,Rayo Majadah,,,,,,,647,3.5143420436832837
+505,2025-05-17,10:00:00,Avustralya NPL Batı (2.Lig),2126929,Perth Glory,Bayswater,1.0,1.0,1.0,1.0,,,505,3.5306373362326533
+439,2025-05-18,18:00:00,Macaristan NB II,2129602,Szeged GA,Vasas,,,,,,,439,3.5534630995692074
+378,2025-05-17,08:00:00,Güney Kore K-Lig 3,2127666,Gyeongju,Pocheon Citizen,0.0,4.0,0.0,4.0,,,378,3.5642250209547655
+15,2025-05-19,19:00:00,Cezayir 1. Lig,2157668,ASO Chlef,Belouizdad,,,,,,,15,3.5737935027082917
+59,2025-05-19,01:30:00,Paraguay Primera Ligi,2157816,Guarani Asuncion,Sportivo Ameliano,,,,,,,59,3.602499132546738
+773,2025-05-18,13:00:00,"Segunda RFEF, Yükselme Playoff",2164051,CDA Baleares,CD Teruel,2.0,5.0,2.0,5.0,,,773,3.62042815147601
+216,2025-05-18,02:00:00,"Kolombiya Primera A, Açılış",2129415,D. Cali,Ind. Santa Fe,0.0,1.0,0.0,2.0,,,216,3.6481639217557094
+621,2025-05-18,18:30:00,Finlandiya Ykkonen (2.Lig),2129487,PK-35,Kapa,,,,,,,621,3.670871831050492
+251,2025-05-17,15:00:00,Kazakistan Premier Ligi,2127387,Atyrau,Zhetysu T,1.0,1.0,1.0,1.0,,,251,3.6833001506800933
+701,2025-05-17,19:00:00,Cezayir 1. Lig,2157671,JS Kabylie,JS Saoura,1.0,2.0,1.0,2.0,,,701,3.706399870494278
+283,2025-05-17,03:00:00,"Ekvador Pro Lig, İlk Etap",2129458,CD Cuenca,Tecnico Uni.,2.0,0.0,2.0,0.0,,,283,3.717162896618872
+86,2025-05-16,18:00:00,Slovakya 2. Lig,2125788,Malzenice,Tatran Presov,2.0,1.0,2.0,1.0,,,86,3.734380805434818
+67,2025-05-16,20:30:00,Fransa Ulusal Ligi,2125670,Boulogne,Chateauroux,0.0,0.0,1.0,1.0,,,67,3.7573927130391898
+145,2025-05-17,08:00:00,Avustralya NPL Başkent (2.Lig),2126940,Cooma Tigers,Yoogali SC,3.0,2.0,3.0,2.0,,,145,3.7823141064697414
+335,2025-05-20,01:00:00,Şili Primera Ligi,2129399,Colo Colo,Nublense,,,,,,,335,3.801144564470023
+23,2025-05-17,08:00:00,Avustralya Victoria NPL 2,2126933,North Sunshine Eagle,Northcote City,2.0,0.0,2.0,0.0,,,23,3.817826606853695
+427,2025-05-19,02:10:00,"Kolombiya Primera A, Açılış",2129421,Deport Pasto,Once Caldas,,,,,,,427,3.8688628820365296
+389,2025-05-17,20:00:00,"Segunda RFEF, Yükselme Playoff",2164050,Ucam Murcia CF,RC Dep. Fabril,3.0,1.0,3.0,1.0,,,389,3.8743773693330383
+218,2025-05-17,09:30:00,Avustralya NPL NNSW (2.Lig),2126921,Valentine FC,Maitland FC,,,,,,,218,3.891991777997482
+6,2025-05-16,19:00:00,Norveç 1.Ligi,2125765,Odds BK,Moss,0.0,0.0,2.0,0.0,,,6,3.9106265482656357
+781,2025-05-17,14:00:00,İsveç 2.Lig Batı Gotaland,2127687,Onsala BK,Jonsereds IF,3.0,3.0,3.0,3.0,,,781,3.919540789429292
+368,2025-05-17,11:00:00,Avustralya Victoria NPL 2,2126935,Eastern Lions,Brunswick City SC,0.0,1.0,0.0,1.0,,,368,3.9959854854591255
+118,2025-05-18,16:30:00,Tunus Kupası,2158662,Monastir,Club Africain,,,,,,,118,4.00373575551634
+229,2025-05-17,17:00:00,Portekiz 3. Lig Yükselme Turu,2127502,Sporting CP B,Amarante,2.0,0.0,2.0,0.0,,,229,4.006869101929834
+373,2025-05-18,13:00:00,Polonya 1. Lig,2127484,Warta Poznan,Odra Opole,1.0,0.0,1.0,0.0,,,373,4.029491283028169
+563,2025-05-18,19:00:00,"Segunda RFEF, Düşme Playoff",2166609,Real Madrid C,Villanovense,,,,,,,563,4.031525765761643
+51,2025-05-17,15:00:00,Litvanya 1. Ligi,2127401,Hegelmann,Dziugas,1.0,0.0,1.0,0.0,,,51,4.033199722304859
+758,2025-05-18,19:00:00,Katar Emir Kupası,2174763,Al-Ahli Doha,Al-Rayyan,,,,,,,758,4.034315307459247
+745,2025-05-18,00:00:00,"Primera Lig, Açılış, Ana Tur B",2157748,Dep. Tachira,Carabobo FC,1.0,0.0,1.0,0.0,,,745,4.070380817564863
+693,2025-05-19,18:00:00,Rusya Ulusal Ligi,2127601,Kamaz,Alania Vlad.,,,,,,,693,4.101036454361263
+617,2025-05-18,19:00:00,"Segunda RFEF, Yükselme Playoff",2164053,SD Logrones,CD Estepona,,,,,,,617,4.114049100338984
+154,2025-05-16,22:00:00,Bolivya Profesyonel Ligi,2129269,Academia del Balompi,Guabira,1.0,1.0,1.0,1.0,,,154,4.121383262934909
+662,2025-05-17,15:00:00,İsveç Lig 2,2127692,IK Kongahalla,Skara FC,4.0,1.0,4.0,1.0,,,662,4.159206655120661
+164,2025-05-18,19:00:00,Tunus Kupası,2158664,Etoile Sahel,Stade Tunisien,,,,,,,164,4.221101751912646
+200,2025-05-17,17:00:00,Rusya Ulusal Ligi,2127602,Sochi,Torp. Moskova,0.0,1.0,0.0,1.0,,,200,4.288099812271165
+382,2025-05-18,18:00:00,Sırbistan Superliga - Düşme Turu,2127610,Zeleznicar Pan.,Spartak Subo,,,,,,,382,4.304555726204506
+412,2025-05-20,03:00:00,"Ekvador Pro Lig, İlk Etap",2132466,LDU Quito,Libertad Loja,,,,,,,412,4.32434966208793
+599,2025-05-18,16:00:00,Kazakistan Premier Ligi,2127383,Zhenis Nur Sultan,Kyzylzhar,,,,,,,599,4.335331590547602
+674,2025-05-17,14:00:00,Vietnam V-Ligi,2127810,Hong Linh,Song Lam,0.0,1.0,0.0,1.0,,,674,4.358807176281143
+364,2025-05-17,17:00:00,Estonya Premium Ligi,2127140,Paide Flora,Harju Laagri,3.0,2.0,3.0,2.0,,,364,4.372573612873773
+35,2025-05-17,17:00:00,Rusya Ulusal Ligi,2127595,Baltika,Y. Krasnoyars,0.0,0.0,0.0,0.0,,,35,4.388587472068889
+574,2025-05-19,18:00:00,Etiyopya Premier Lig,2131262,Hadiya Hossana FC,Shire Endaselassie F,,,,,,,574,4.421379875106866
+453,2025-05-18,15:45:00,Polonya Ekstraklasa,2127491,Cracovia,L. Varşova,,,,,,,453,4.4536838684396995
+313,2025-05-18,18:00:00,U20 Afrika Uluslar Kupası,2174499,Nigeria,Mısır U20,,,,,,,313,4.4563437928418415
+17,2025-05-19,02:30:00,Bolivya Profesyonel Ligi,2129265,Oriente P.,Strongest,,,,,,,17,4.489454309824303
+784,2025-05-18,21:30:00,Arjantin Primera Nacional (2.Lig),2126900,Chacarita Juniors,Central Norte Salta,,,,,,,784,4.4923490514429085
+442,2025-05-17,10:00:00,Avustralya NPL Batı (2.Lig),2126932,Perth Redstar,Stirling Li,2.0,0.0,2.0,0.0,,,442,4.494952725001677
+311,2025-05-19,22:15:00,İzlanda Urvalsdeild,2131234,IA Akranes,Hafnarfjordur,,,,,,,311,4.51703442537247
+393,2025-05-17,17:00:00,2.Lig Güney Norrland,2145195,Taftea IK,Lucksta IF,0.0,0.0,0.0,0.0,,,393,4.533265930871472
+525,2025-05-16,20:00:00,İsveç Lig 2,2125795,Hassleholm,Hogaborgs BK,3.0,3.0,3.0,3.0,,,525,4.541442502113179
+34,2025-05-18,08:00:00,Avustralya NPL NSW (2.Lig),2129255,Sydney Utd.,St George City FA ,1.0,0.0,1.0,0.0,,,34,4.553064901799665
+292,2025-05-17,15:00:00,İsveç 2.Lig Kuzey Svealand,2127670,IK Franke,FC Gute,3.0,1.0,3.0,1.0,,,292,4.558398841698694
+110,2025-05-18,17:00:00,İzlanda Lig 1,2129607,Thor Akureyr,Keflavik,,,,,,,110,4.565216314699667
+8,2025-05-19,02:00:00,Peru Primera Ligi,2148041,Melgar,Atletico Grau,,,,,,,8,4.5868834735580535
+2,2025-05-18,08:30:00,Avustralya NPL Güney (2.Lig),2151332,Adelaide Utd. Genç,Adelaide City,3.0,1.0,3.0,1.0,,,2,4.623105017193531
+521,2025-05-18,14:00:00,İngiltere Premier Lig,2129472,Everton,Southampton,2.0,0.0,2.0,0.0,,,521,4.641637642039715
+325,2025-05-16,22:00:00,"Kadınlar 1. Lig, Playofflar",2168765,Lyon (K),PSG (K),3.0,0.0,3.0,0.0,,,325,4.6455354912001265
+514,2025-05-17,02:05:00,"Arjantin Primera Nacional, A Grubu",2126891,Ferro Carril Oeste,Almagro,0.0,1.0,1.0,1.0,,,514,4.656350502271065
+125,2025-05-17,16:00:00,Finlandiya Ykkonen (2.Lig),2127158,Lahti,SJK Akatemia,1.0,0.0,1.0,0.0,,,125,4.6663261780548515
+177,2025-05-18,08:00:00,Avustralya NPL Queensland (2.Lig),2129246,Brisbane Roar II,Brisbane City,0.0,1.0,0.0,1.0,,,177,4.687259327154836
+551,2025-05-18,17:00:00,İsveç Lig 1,2129805,Oskarshmans,Skövde,,,,,,,551,4.699202059924642
+74,2025-05-16,22:15:00,İzlanda Lig 1,2125706,L. Reykjavik,Kopavogur,0.0,1.0,0.0,1.0,,,74,4.710806724967604
+774,2025-05-17,14:00:00,Danimarka 2.Ligi - Düşme Grubu,2141850,Ishoej IF,Nykoebing,2.0,1.0,2.0,1.0,,,774,4.766508155872599
+558,2025-05-18,22:00:00,Şili Primera Ligi,2169882,Deportes Limache,Palestino,,,,,,,558,4.7868883421279005
+501,2025-05-18,17:00:00,İsveç Lig 2,2129814,Vanersborgs,Motala,,,,,,,501,4.790918492314392
+140,2025-05-18,03:10:00,"Arjantin Primera Nacional, A Grubu",2126898,Tucuman,Racing Cordoba,1.0,1.0,1.0,1.0,,,140,4.801937109125858
+246,2025-05-17,10:00:00,Avustralya NPL Batı (2.Lig),2126930,Armadale SC,Perth SC,2.0,1.0,2.0,1.0,,,246,4.802624282618827
+47,2025-05-18,14:00:00,Danimarka 2. Lig Yük. Grb.,2141883,Naestved,Aarhus Frem,0.0,2.0,0.0,3.0,,,47,4.841446064968606
+713,2025-05-16,18:55:00,Suudi Profesyonel Ligi,2123386,Al Fateh,Al Hilal,2.0,0.0,3.0,4.0,,,713,4.861316694065508
+631,2025-05-18,22:15:00,İzlanda Urvalsdeild,2129609,Afturelding,KR Reykjavik,,,,,,,631,4.8669394900697105
+667,2025-05-17,02:10:00,"Kolombiya Primera A, Açılış",2129420,Atl. Junior,Fortaleza FC,1.0,0.0,2.0,1.0,,,667,4.87679197833986
+712,2025-05-17,14:30:00,Almanya 3. Lig,2127165,1860 Münih,Erzgebirge,1.0,1.0,1.0,1.0,,,712,4.891329062739494
+62,2025-05-17,12:00:00,Avustralya NPL Queensland (2.Lig),2126926,Moreton C. Exc.,Wolves FC,1.0,1.0,1.0,1.0,,,62,4.916624858579308
+780,2025-05-18,17:00:00,2.Lig Güney Norrland,2145194,Umea Akademi,Östersund,,,,,,,780,4.93535206444282
+520,2025-05-17,21:30:00,"Arjantin Primera Nacional, A Grubu",2126897,Club Atletico Los An,CA Alvarado,,,,,,,520,4.940242909007613
+249,2025-05-16,19:00:00,Litvanya Lig 1,2125745,FK Kauno Zalgiris B,Zalgiris B,2.0,3.0,2.0,3.0,,,249,4.9639601126519945
+295,2025-05-19,01:30:00,ABD USL Lig 2 (4.Lig),2129854,Minneapolis City,RKC Soccer Club,,,,,,,295,4.971901044872072
+607,2025-05-17,10:00:00,Avustralya NPL Batı (2.Lig),2126928,Floreat A.,Sorrento,0.0,1.0,0.0,1.0,,,607,4.9807830709638425
+609,2025-05-18,20:30:00,"Segunda RFEF, Yükselme Playoff",2164054,Real Aviles CF,CA Antoniano,,,,,,,609,4.988266231868544
+336,2025-05-17,17:00:00,İsveç Lig 1,2127676,Ljungskile,Lunds,3.0,0.0,3.0,0.0,,,336,5.00818330335462
+714,2025-05-17,13:00:00,Ukrayna Premier Lig,2127732,Kryvbas KR,Obolon Kiev,1.0,0.0,1.0,0.0,,,714,5.010538893173069
+99,2025-05-19,19:30:00,İsveç Lig 1,2131251,BK Olympic,Angelholms,,,,,,,99,5.075490124116094
+638,2025-05-17,02:00:00,ABD USL Lig 1 (3.Lig),2125829,Charlotte In,One Knoxville SC,3.0,1.0,3.0,1.0,,,638,5.090088407876625
+532,2025-05-16,22:30:00,Portekiz 2. Lig,2125777,Alverca,Portimonense,1.0,0.0,2.0,1.0,,,532,5.108404839086267
+471,2025-05-17,08:00:00,Japonya J3 (3.Lig),2127372,Tegevajaro Miyazaki,Zweigen Kanazawa,1.0,1.0,1.0,1.0,,,471,5.122821488203546
+248,2025-05-18,15:00:00,"Danimarka Süper Lig, Düşme Turu",2129455,Aalborg BK,Silkeborg,,,,,,,248,5.129590626940906
+586,2025-05-17,01:30:00,Paraguay Primera Ligi,2157718,Cerro Porteno,C. G. Caballero,2.0,1.0,2.0,1.0,,,586,5.143831256952351
+78,2025-05-16,16:00:00,Paraguay Intermedia Ligi (2.Lig),2157728,Sol de America,Depor Santan,2.0,1.0,2.0,1.0,,,78,5.167533260657351
+244,2025-05-17,17:00:00,İsveç 2.Lig Kuzey Svealand,2127672,Sunnersta AIF,Viggbyholms IK FF,3.0,4.0,3.0,4.0,,,244,5.18335798493602
+495,2025-05-17,12:00:00,Avustralya NPL NSW (2.Lig),2126942,Woll. Wolves,Blacktown,0.0,1.0,0.0,1.0,,,495,5.185065091201845
+645,2025-05-20,04:05:00,"Kolombiya Primera A, Açılış",2129414,Ind.Medellin,Dep. Pereira,,,,,,,645,5.195594287470875
+572,2025-05-16,22:30:00,Portekiz 2. Lig,2125770,Uniao Leiria,Tondela,0.0,0.0,0.0,2.0,,,572,5.207542606642791
+640,2025-05-17,16:00:00,Portekiz 2. Lig,2125774,A. de Viseu,P.Ferreira,0.0,1.0,0.0,1.0,,,640,5.236353693172378
+664,2025-05-18,18:00:00,Cezayir 1. Lig,2157670,ES Mostaganem,MC EL Bayadh,,,,,,,664,5.2389693642929425
+36,2025-05-18,16:45:00,"Lübnan Premier Lig, Şamp. Turu",2164073,Nejmeh SC,Al Ahed,,,,,,,36,5.251894896130349
+595,2025-05-17,13:00:00,Japonya J3 (3.Lig),2127371,Ryukyu,Giravanz Kitakyushu,0.0,1.0,0.0,1.0,,,595,5.258535917914795
+567,2025-05-18,17:00:00,İsveç 2.Lig Kuzey Svealand,2129803,Kungsangens IF,FC Jarfalla,,,,,,,567,5.262565914076516
+131,2025-05-17,18:00:00,Slovakya Superliga Düşme Turu,2127633,Trencin,MFK Skalica,2.0,0.0,2.0,0.0,,,131,5.26371541783938
+327,2025-05-18,23:30:00,"Ekvador Pro Lig, İlk Etap",2129460,Delfin Sc,Uni Catolica,,,,,,,327,5.277120426899504
+547,2025-05-18,21:00:00,"Arjantin Primera Nacional, A Grubu",2126899,CA Guemes,Quilmes Atletico Clu,,,,,,,547,5.278920344161294
+600,2025-05-19,22:15:00,İzlanda Urvalsdeild,2129608,Stjarnan G.,Vikingur R.,,,,,,,600,5.2839190001361676
+657,2025-05-18,08:30:00,Avustralya NPL NNSW (2.Lig),2129243,Cooks Hill United,Newcastle Oly.,,,,,,,657,5.35350352572967
+458,2025-05-19,22:00:00,"Arjantin Primera Nacional, A Grubu",2126896,Patronato,San Miguel,,,,,,,458,5.384384830228984
+306,2025-05-19,19:00:00,Estonya Premium Ligi,2131228,Tallinna Kal,Trans Narva,,,,,,,306,5.410360431616364
+575,2025-05-17,21:00:00,Suudi Profesyonel Ligi,2162467,Ahli Saudi,Al Kholood,4.0,1.0,4.0,1.0,,,575,5.478220513999049
+151,2025-05-17,15:00:00,İsveç Lig 2,2127694,Tidaholms GoIf,Ahlafors IF,1.0,1.0,1.0,1.0,,,151,5.485927451215519
+116,2025-05-17,19:00:00,"Segunda RFEF, Yükselme Playoff",2164056,La Union Atl.,Torrent CF,0.0,2.0,0.0,2.0,,,116,5.494670144785765
+416,2025-05-16,18:00:00,Etiyopya Premier Lig,2125842,Hawassa,Saint George,2.0,1.0,2.0,1.0,,,416,5.541028785343025
+579,2025-05-18,15:00:00,Finlandiya Ykkonen,2129481,JJK Jyvaskyla,Rovaniemen,,,,,,,579,5.578835003833687
+113,2025-05-17,17:00:00,İsveç Lig 1,2127680,IFK Stocksund,IFK Haninge,3.0,2.0,3.0,2.0,,,113,5.589266499282352
+57,2025-05-19,15:00:00,Etiyopya Premier Lig,2131263,Bahir Dar Kenema FC,Defence Force FC,,,,,,,57,5.620329171854617
+109,2025-05-18,17:00:00,İsveç Lig 1,2129808,Hammarby Talang FF,Orebro Syri,,,,,,,109,5.625113332191627
+531,2025-05-17,17:00:00,İsveç Lig 2,2127669,IFK Karlshamn,Torns,0.0,1.0,0.0,1.0,,,531,5.680070422098655
+40,2025-05-18,21:00:00,"Arjantin Primera Nacional, A Grubu",2126893,T. Suarez,CA Atlanta,,,,,,,40,5.721354734676045
+320,2025-05-17,16:00:00,Finlandiya Ykkonen,2127146,KPV Kokkola,Atlantis,3.0,0.0,3.0,0.0,,,320,5.725958435056965
+676,2025-05-18,00:00:00,Arjantin Primera Nacional (2.Lig),2126908,Estudiantes R.C.,Chaco For Ever,0.0,0.0,0.0,0.0,,,676,5.728045041722351
+254,2025-05-20,02:00:00,Arjantin Primera Nacional (2.Lig),2171400,Agropecuario Argenti,Gimnasia Y Esgrima J,,,,,,,254,5.7357214018813725
+539,2025-05-17,23:05:00,Arjantin Primera Nacional (2.Lig),2126905,Deportivo Moron,Colon,,,,,,,539,5.747660393586246
+552,2025-05-18,15:00:00,İsveç Lig 1,2129809,V Essinge,Team Tg,,,,,,,552,5.77408867268247
+76,2025-05-17,14:00:00,İsveç Lig 1,2127679,Enkopings SK,IF Karlstad,3.0,4.0,3.0,4.0,,,76,5.779186794004846
+785,2025-05-18,01:05:00,Arjantin Primera Nacional (2.Lig),2126903,Estudiantes Caseros,CA Temperley,,,,,,,785,5.801370527728771
+56,2025-05-17,17:00:00,İsveç 2.Lig Kuzey Svealand,2127671,Falu FK,Korsnas IF FK,1.0,0.0,1.0,0.0,,,56,5.806453306451365
+30,2025-05-17,08:00:00,Avustralya NPL Başkent (2.Lig),2126939,Queanbeyan City FC,Tuggeranong United,1.0,1.0,1.0,1.0,,,30,5.816983754489951
+570,2025-05-16,20:00:00,"Mısır Premier Lig, Düşme Turu",2125652,G. El Mahallah,El Gouna,0.0,2.0,0.0,4.0,,,570,5.854476919418165
+18,2025-05-17,14:00:00,İsveç Lig 1,2127675,Eskilsminne,Ariana FC,2.0,2.0,2.0,2.0,,,18,5.868321736237712
+465,2025-05-18,09:30:00,Etiyopya Premier Lig,2129909,Welwalu Adigrat,Ethiopia Electricity,0.0,0.0,0.0,0.0,,,465,6.012229203881036
+31,2025-05-16,20:30:00,Fransa Ulusal Ligi,2125671,Orleans,Nimes,1.0,0.0,3.0,0.0,,,31,6.019784049282832
+555,2025-05-18,19:00:00,Estonya Premium Ligi,2129478,Nomme Kalju,Kuressaare,,,,,,,555,6.038410386848513
+472,2025-05-18,03:30:00,El Salvador Primera Ligi - Play-Off,2172178,Municipal Li,CD Fas,1.0,0.0,1.0,0.0,,,472,6.053792199935509
+386,2025-05-18,13:00:00,"Segunda RFEF, Yükselme Playoff",2164058,SD Eibar B,Sabadell,0.0,1.0,0.0,1.0,,,386,6.064107518835727
+16,2025-05-18,21:00:00,"Ekvador Pro Lig, İlk Etap",2129457,Cuniburo FC,Indep. Valle,,,,,,,16,6.08429124878157
+584,2025-05-16,22:30:00,Portekiz 2. Lig,2125772,Maritimo,Vizela,1.0,1.0,1.0,2.0,,,584,6.092823647538144
+79,2025-05-18,18:00:00,Kazakistan Premier Ligi,2127385,Elimai FC,K. Almaty,,,,,,,79,6.095875654899794
+208,2025-05-19,01:30:00,Şili Primera Ligi,2162504,Univ. Chile,Huachipato,,,,,,,208,6.117131680779807
+735,2025-05-16,19:00:00,Gürcistan Erovnuli Ligi,2131229,D. Batumi,Dila Gori,0.0,1.0,0.0,3.0,,,735,6.187624746217242
+682,2025-05-17,19:35:00,Arjantin Primera Nacional (2.Lig),2126902,CA Defensores De Bel,Almirante B.,,,,,,,682,6.18849739435996
+268,2025-05-19,17:45:00,"Bulgar. Parva Ligi, Düşme Turu",2146195,CSKA 1948 Sofia,Krumovgrad,,,,,,,268,6.236032392475202
+195,2025-05-18,21:30:00,"Arjantin Primera Nacional, A Grubu",2126895,CD Maipu,A. Sarandi,,,,,,,195,6.255069943653706
+623,2025-05-17,14:00:00,Kazakistan Premier Ligi,2127386,Okzhetpes K,Aktobe Lento,1.0,3.0,1.0,3.0,,,623,6.26183679122987
+655,2025-05-16,21:00:00,Suudi Profesyonel Ligi,2162466,Al Nassr,Al Taawoun,0.0,0.0,1.0,1.0,,,655,6.2715069959300855
+322,2025-05-16,20:00:00,Gürcistan Erovnuli Ligi,2173707,FC Gagra,D. Tiflis,1.0,1.0,1.0,1.0,,,322,6.284027371041599
+580,2025-05-18,23:00:00,"Arjantin Primera Nacional, A Grubu",2126892,Gimnasia Y Tiro,Colegiales,,,,,,,580,6.286342338753116
+97,2025-05-16,18:30:00,Cezayir 1. Lig,2157672,MC Oran,MC Magra,2.0,1.0,2.0,1.0,,,97,6.348952669535347
+346,2025-05-18,15:30:00,Polonya 1. Lig,2127485,Arka Gdynia,GKS Tychy,,,,,,,346,6.383470842731249
+681,2025-05-16,20:00:00,Danimarka 1.Ligi - Düşme Grubu,2127121,Vendsyssel,Hobro IK,2.0,0.0,2.0,0.0,,,681,6.447891128113129
+84,2025-05-18,16:00:00,Kazakistan Premier Ligi,2127381,K Kyzylorda,FK Arys,,,,,,,84,6.474720071169099
+342,2025-05-17,10:00:00,Avustralya NPL Batı (2.Lig),2126927,Olympic Kingsway SC,Balcatta,3.0,3.0,3.0,3.0,,,342,6.534714989959393
+764,2025-05-17,18:00:00,Etiyopya Premier Lig,2127866,Dire Dawa Kenema,Arba Minch Kenema,1.0,0.0,1.0,0.0,,,764,6.641551023669095
+698,2025-05-19,02:00:00,El Salvador Primera Ligi - Play-Off,2172179,Alianza,CD Fuerte San Franci,,,,,,,698,6.645148606314233
+159,2025-05-17,19:30:00,Sırbistan Superliga - Şampiyonluk Turu,2127613,Mladost Lucani,Partizan,0.0,4.0,0.0,4.0,,,159,6.692525681684009
+739,2025-05-18,23:00:00,Paraguay Primera Ligi,2157815,Club 2 De Mayo De Pe,Olimpia,,,,,,,739,6.703700470635603
+371,2025-05-18,04:10:00,"Kolombiya Primera A, Açılış",2129417,Boyaca Chico FC,Alianza FC Valledupa,2.0,1.0,2.0,1.0,,,371,6.710491785256875
+153,2025-05-17,08:00:00,Japonya J3 (3.Lig),2127374,Nara Club,Tochigi,0.0,0.0,0.0,0.0,,,153,6.726105857031987
+83,2025-05-16,18:00:00,Faroe Adaları Premier Ligi,2125658,B68 Toftir,B36 Torshavn,2.0,1.0,2.0,1.0,,,83,6.771255422741044
+683,2025-05-18,09:00:00,Avustralya NPL Queensland (2.Lig),2129244,Gold Coast Utd.,Queensland,4.0,2.0,4.0,2.0,,,683,6.790390268607542
+606,2025-05-17,08:00:00,Avustralya NPL Güney (2.Lig),2126945,Croydon Kings,NE Metrostars,0.0,1.0,0.0,1.0,,,606,6.803741617668914
+402,2025-05-16,21:30:00,Polonya 1. Lig,2127487,Wisla Krakow,S. Stalowa,2.0,0.0,5.0,0.0,,,402,6.810381780781458
+405,2025-05-17,23:45:00,"Kolombiya Primera A, Açılış",2129423,D. La Equidad,A. Bucaraman,0.0,4.0,1.0,4.0,,,405,6.8393420736208235
+37,2025-05-16,20:00:00,Danimarka 1.Ligi - Düşme Grubu,2127119,HB Koege,B93 Kopenhag,1.0,1.0,2.0,1.0,,,37,6.844822861111893
+158,2025-05-16,19:00:00,Avusturya 2.Ligi,2125594,ASK Voitsberg,Team für Wien,0.0,0.0,0.0,0.0,,,158,6.8835528617132
+510,2025-05-18,16:00:00,Rusya Ulusal Ligi,2127594,Tyumen,Ural,,,,,,,510,6.942960463663897
+133,2025-05-18,19:30:00,Arjantin Primera Nacional (2.Lig),2126901,San Telmo,Gimnasia Y,,,,,,,133,6.976553590419842
+566,2025-05-16,21:30:00,İzlanda Lig 1,2125705,Fjölnir,F. Reykjavik,1.0,1.0,1.0,1.0,,,566,6.988418991445776
+205,2025-05-17,22:00:00,Bolivya Profesyonel Ligi,2129268,Cdt Real Oruro,Always Ready,2.0,2.0,2.0,2.0,,,205,6.98909150033107
+470,2025-05-17,13:00:00,Ukrayna Premier Lig,2127733,Kolos,Karpaty Lviv,2.0,1.0,2.0,1.0,,,470,7.041462916184392
+594,2025-05-17,17:00:00,İsviçre Yükselme 1.Ligi,2127717,SC Cham,Rapperswil,0.0,2.0,0.0,2.0,,,594,7.051467932281901
+407,2025-05-18,18:00:00,Etiyopya Premier Lig,2129911,Fasil Ketema FC,Ethiopia Nigd Bank,,,,,,,407,7.072283930951868
+463,2025-05-16,17:00:00,Gürcistan Erovnuli Ligi,2131231,Kolkheti Poti,Iberia,1.0,1.0,2.0,2.0,,,463,7.077796267200688
+85,2025-05-17,19:00:00,Rusya Ulusal Ligi,2127600,Chayka Pesch,Rotor,1.0,0.0,1.0,0.0,,,85,7.110323480686376
+269,2025-05-19,04:15:00,"Kolombiya Primera A, Açılış",2129422,U. Magdalena,America Cali,,,,,,,269,7.1669589087701615
+235,2025-05-17,12:00:00,Avustralya NPL Queensland (2.Lig),2126924,Suburbs Bri.,Gold Coast K,,,,,,,235,7.173151329785258
+461,2025-05-20,02:00:00,"Kolombiya Primera A, Açılış",2129416,Llaneros FC,Deportes Tol,,,,,,,461,7.174510436259745
+726,2025-05-16,20:00:00,İsveç 2.Lig Batı Gotaland,2125801,Hestrafors IF,Tvaakers,3.0,1.0,3.0,1.0,,,726,7.180675455693567
+312,2025-05-18,15:00:00,"Danimarka Süper Lig, Düşme Turu",2129453,Viborg,Vejle,,,,,,,312,7.2293913990044825
+479,2025-05-17,03:00:00,Şili Primera Ligi,2129401,Dep. Calera,Coquimbo Unido,0.0,1.0,0.0,1.0,,,479,7.2550878699020585
+77,2025-05-16,16:00:00,Paraguay Intermedia Ligi (2.Lig),2157733,Club Fernando De La ,Pastoreo FC,1.0,1.0,1.0,1.0,,,77,7.262671684717683
+384,2025-05-16,20:00:00,Litvanya 1. Ligi,2125744,Dfk Dainava ,Suduva,0.0,1.0,0.0,3.0,,,384,7.282060148062495
+548,2025-05-18,15:00:00,Etiyopya Premier Lig,2129910,Ethiopian Coffee SC,Adama City FC,,,,,,,548,7.284449189883887
+264,2025-05-16,19:00:00,Norveç Lig 2,2125766,Jerv,Arendal,0.0,0.0,1.0,1.0,,,264,7.302218840872956
+359,2025-05-18,08:00:00,Avustralya NPL Başkent (2.Lig),2129251,Gungahlin United FC,O Connor Knights,2.0,1.0,2.0,1.0,,,359,7.329931786858593
+194,2025-05-18,21:30:00,"Arjantin Primera Nacional, A Grubu",2126894,Deportivo Madryn,All Boys,,,,,,,194,7.331432329361022
+42,2025-05-19,18:00:00,Rusya Ulusal Ligi,2127597,Neftekhimik,Chernomorets,,,,,,,42,7.3537609425381785
+65,2025-05-18,21:45:00,İtalya Serie A,2129623,Monza,Empoli,,,,,,,65,7.378983669855896
+503,2025-05-19,01:00:00,ABD USL Lig 2 (4.Lig),2129848,Seacoast Utd,Connectic,,,,,,,503,7.411814892453805
+365,2025-05-17,13:00:00,Ukrayna Premier Lig,2127736,Zorya Luhansk,Polissya,0.0,1.0,0.0,1.0,,,365,7.436914682850676
+699,2025-05-16,19:15:00,Faroe Adaları Premier Ligi,2125659,HB Torshavn,Klaksvik,1.0,1.0,1.0,1.0,,,699,7.444722963280769
+663,2025-05-18,22:00:00,"Kolombiya Primera A, Açılış",2129419,R. Aguilas,Atl Nacional,,,,,,,663,7.44821455115251
+263,2025-05-18,15:30:00,Hollanda Eredivisie,2129583,Waalwijk,Go Ahead,,,,,,,263,7.451603854204811
+740,2025-05-16,20:00:00,Norveç Lig 3,2125767,Fk Kvik Trondheim,Trygg/Lade,2.0,2.0,2.0,2.0,,,740,7.485793211143359
+255,2025-05-19,20:15:00,"Bulgar. Parva Ligi, Düşme Turu",2144765,Slavya Sofya,Loko Plovdiv,,,,,,,255,7.629036636430579
+71,2025-05-16,15:15:00,Vietnam V-Ligi,2125835,Hai Phong,Thanh Hoa,2.0,0.0,2.0,1.0,,,71,7.852916655612742
+597,2025-05-19,19:00:00,Letonya Virsliga,2131240,Riga,Liepaja,,,,,,,597,7.86049616754566
+553,2025-05-16,19:00:00,Bahreyn Premier Ligi,2150493,Al Khalidiyah,Al Najma,2.0,0.0,2.0,1.0,,,553,8.005479373529107
+202,2025-05-17,21:30:00,Arjantin Primera Nacional (2.Lig),2126906,Talleres de,Mitre Santia,,,,,,,202,8.259709437988723
+593,2025-05-17,15:00:00,Etiyopya Premier Lig,2127865,Mekelle 70 Enderta F,Ethiopian Insurance,0.0,1.0,0.0,1.0,,,593,8.343086958674228
+603,2025-05-16,20:00:00,Danimarka Süper Lig Şampiyonluk Turu,2125640,Nordsjælland,Aarhus,1.0,0.0,2.0,0.0,,,603,8.410017835890718
+417,2025-05-16,21:00:00,Polonya Lig 2,2127473,Z. Sosnowiec,Wisla Pulawy,1.0,4.0,1.0,4.0,,,417,8.476726962690257
+358,2025-05-17,22:00:00,"Ekvador Pro Lig, İlk Etap",2127126,SD Aucas,Manta FC,0.0,0.0,1.0,1.0,,,358,8.509770854729286
+385,2025-05-18,16:30:00,Tunus Kupası,2158665,Esperance T.,ES Zarzis,,,,,,,385,8.691950298983537
+395,2025-05-17,04:15:00,"Kolombiya Primera A, Açılış",2129418,Millonarios,Envigado,1.0,0.0,1.0,0.0,,,395,8.902168275201273
+480,2025-05-18,21:00:00,U20 Afrika Uluslar Kupası,2174500,Güney Afrika U20,Fas U20,,,,,,,480,8.910269356197936
+554,2025-05-16,19:15:00,Macaristan 1. Ligi,2127318,Kecskemeti TE,Puskas Akad.,0.0,0.0,0.0,1.0,,,554,8.922325929935534
+697,2025-05-17,16:45:00,"Lübnan Premier Lig, Şamp. Turu",2163999,Al Hikma,AL Ansar SC,0.0,2.0,0.0,2.0,,,697,9.265160549067673
+535,2025-05-16,15:00:00,Etiyopya Premier Lig,2125843,Sidama Bunna,Wolaita Dicha,1.0,0.0,1.0,0.0,,,535,9.29462748043191
+435,2025-05-17,14:30:00,Almanya 3. Lig,2127167,Osnabruck,Verl,0.0,3.0,0.0,3.0,,,435,9.335196837774767
+189,2025-05-18,23:30:00,Peru Primera Ligi,2148039,Juan Pablo II,U. Deportes,,,,,,,189,9.343388036467287
+626,2025-05-18,15:30:00,Hollanda Eredivisie,2129585,F. Sittard,Utrecht,,,,,,,626,9.687161606993042
+498,2025-05-18,16:00:00,"Lübnan Premier Lig, Şamp. Turu",2164071,Safa SC,AL Tadamon Sour,,,,,,,498,9.796514686356572
+589,2025-05-18,15:30:00,Hollanda Eredivisie,2129587,Ajax,Twente,,,,,,,589,9.916723249138295
+706,2025-05-18,15:30:00,Polonya Lig 2,2127478,Rekord B-B,OKS Swit Skolwin Szc,,,,,,,706,9.960501995381557
+245,2025-05-18,18:00:00,Çekya 1. Lig Şamp. Turu,2143663,Sigma Olomouc,V. Plzen,,,,,,,245,10.018986974739512
+135,2025-05-18,02:30:00,ABD USL Championship,2127797,Charleston,San Antonio,2.0,0.0,4.0,0.0,,,135,10.055610374313433
+688,2025-05-17,04:00:00,ABD USL Championship,2127801,El Paso Loc.,Indy Eleven,3.0,1.0,3.0,1.0,,,688,10.107759395632646
+724,2025-05-18,18:00:00,Sırbistan Superliga - Düşme Turu,2127609,Jedinstvo UB,IMT Beograd,,,,,,,724,10.125714789583993
+401,2025-05-18,15:00:00,İsveç 2.Lig Batı Gotaland,2129812,BK Astrio,Bergdalens IK,,,,,,,401,10.192276487615512
+211,2025-05-17,14:30:00,Almanya 3. Lig,2127164,A.Bielefeld,Mannheim 07,1.0,0.0,1.0,0.0,,,211,10.259166632821596
+46,2025-05-16,19:00:00,Avusturya 2.Ligi,2125596,First Vienna,Amstetten,0.0,2.0,1.0,3.0,,,46,10.458197741484906
+633,2025-05-16,17:00:00,Faroe Adaları Premier Ligi,2125656,EB/Streymur,Vikingur Gota,1.0,2.0,1.0,2.0,,,633,10.58608992971437
+181,2025-05-18,15:30:00,Hollanda Eredivisie,2129584,Zwolle,Groningen,,,,,,,181,10.636526688726917
+61,2025-05-18,17:45:00,Macaristan 1. Ligi,2127313,Debreceni VSC,Paksi,,,,,,,61,10.639830825722747
+307,2025-05-16,19:00:00,Norveç Eliteserien,2125755,Brann,Sarpsborg,1.0,1.0,2.0,2.0,,,307,10.6855182373154
+271,2025-05-16,14:45:00,Singapur Premier Ligi,2125786,Albirex Niigata,Tanjong Pagar,2.0,1.0,5.0,1.0,,,271,10.690467716615583
+793,2025-05-16,20:30:00,Fransa Ulusal Ligi,2125665,Aubagne FC,Valenciennes,0.0,1.0,0.0,3.0,,,793,10.69565332272882
+459,2025-05-17,09:00:00,Avustralya NPL NSW (2.Lig),2126943,Sutherland Sharks,Marconi Stal,0.0,2.0,0.0,2.0,,,459,10.827511256055107
+331,2025-05-18,17:00:00,İskoçya Premiership Düşme Turu,2137509,Ross County,Motherwell,,,,,,,331,10.912456185479051
+791,2025-05-17,19:30:00,Sırbistan Superliga - Şampiyonluk Turu,2127611,Novi Pazar,Kızıl Yıldız,3.0,3.0,3.0,3.0,,,791,11.024323108472466
+388,2025-05-18,15:30:00,Ukrayna Premier Lig,2127737,Lnz Lebedyn,Vorskla P.,,,,,,,388,11.17204994618266
+214,2025-05-18,02:30:00,ABD USL Championship,2127798,Tampa Bay,Rhode Island FC,0.0,1.0,0.0,3.0,,,214,11.482373448028941
+578,2025-05-17,14:30:00,Almanya 3. Lig,2127171,Stuttgart II,Weiss Essen,1.0,1.0,1.0,1.0,,,578,11.585219031162076
+560,2025-05-16,19:00:00,Norveç 1.Ligi,2125761,Sogndal,Asane,0.0,0.0,2.0,0.0,,,560,11.64188129126904
+3,2025-05-17,17:00:00,İsveç Lig 2,2127693,FBK Karlstad,IF Haga,3.0,0.0,3.0,0.0,,,3,11.734214929001428
+82,2025-05-17,14:45:00,Macaristan 1. Ligi,2127314,Zalaegerszeg,ETO Gyor,0.0,0.0,0.0,0.0,,,82,11.750221274512239
+236,2025-05-19,20:00:00,Polonya Ekstraklasa,2127498,Widzew Lodz,Puszcza,,,,,,,236,11.769834323387904
+168,2025-05-19,02:00:00,ABD USL Championship,2129886,Lexington SC,Tulsa Roughnecks,,,,,,,168,11.795397407463643
+188,2025-05-20,04:00:00,Peru Primera Ligi,2148038,Alianza Lima,Alianza Un,,,,,,,188,11.821010955074865
+104,2025-05-19,00:15:00,Bolivya Profesyonel Ligi,2129272,Bolivar,GV Club Deportivo Sa,,,,,,,104,12.107877600967063
+541,2025-05-18,14:00:00,Kazakistan Premier Ligi,2127384,Ulytau FC,Astana,0.0,0.0,0.0,2.0,,,541,12.484270102813381
+70,2025-05-16,21:45:00,İrlanda 1.Ligi,2125722,Bray Wand,Athlone Town,2.0,0.0,3.0,1.0,,,70,12.503131607721325
+695,2025-05-18,14:30:00,İngiltere Konferans Ligi - Play-Off,2161354,Boreham Wood,Maidstone Utd.,,,,,,,695,12.566530945332527
+473,2025-05-17,14:00:00,2.Lig Kuzey Norrland,2139731,Kiruna FF,Pitea,1.0,1.0,1.0,1.0,,,473,12.646153565412686
+253,2025-05-16,20:30:00,Fransa Ulusal Ligi,2125669,Quevilly,Sochaux,1.0,0.0,1.0,0.0,,,253,12.773030180814576
+468,2025-05-16,20:05:00,Polonya Lig 2,2127475,Resovia,Jastrzebie,0.0,1.0,0.0,1.0,,,468,13.176869886281796
+280,2025-05-17,16:00:00,Finlandiya Ykkonen,2127145,Mikkeli,KuPS Akatemia,3.0,0.0,3.0,0.0,,,280,13.229992441418856
+677,2025-05-17,21:00:00,"Serie C, Düşme Playoff",2154541,Lucchese,Sestri Levante,1.0,0.0,1.0,0.0,,,677,13.275737267662388
+207,2025-05-17,15:00:00,Danimarka 1.Ligi - Yükselme Grubu,2127124,Horsens,Fredericia,0.0,3.0,0.0,3.0,,,207,13.345725907570557
+58,2025-05-19,00:00:00,ABD USL Championship,2129889,Birmingham Legion,Detroit City,,,,,,,58,13.385540706299466
+55,2025-05-17,14:30:00,Almanya 3. Lig,2127169,Wehen,A. Aachen,2.0,1.0,2.0,1.0,,,55,13.446798875568861
+73,2025-05-18,17:00:00,İskoçya Premiership Düşme Turu,2137511,Kilmarnock,Hearts,,,,,,,73,13.619592504917316
+415,2025-05-18,15:00:00,İspanya La Liga 2,2129781,Racing Ferrol,Cadiz,,,,,,,415,13.684447376492775
+537,2025-05-16,18:00:00,Romanya 1. Ligi,2127560,Otelul Galati,Farul Cons.,0.0,0.0,0.0,0.0,,,537,13.687476027376269
+433,2025-05-18,15:30:00,Ukrayna Premier Lig,2127734,FC Ingulets,Shakhtar D.,,,,,,,433,13.840924824591744
+186,2025-05-18,18:00:00,Çekya 1. Lig Şamp. Turu,2143662,Banik Ostrava,Sparta Prag,,,,,,,186,13.853754003879237
+612,2025-05-17,18:00:00,Slovakya Superliga Şampiyonluk Turu,2127631,Zilina,DAC Streda,0.0,1.0,0.0,1.0,,,612,14.212920178485488
+689,2025-05-17,20:15:00,Hırvatistan 1. HNL,2127053,L. Zagreb,D. Zagreb,1.0,1.0,1.0,1.0,,,689,14.252087566388301
+564,2025-05-16,19:00:00,Norveç 1.Ligi,2125760,IK Start,Egersunds,0.0,1.0,2.0,1.0,,,564,14.309364066931835
+179,2025-05-18,15:15:00,Vietnam V-Ligi,2129896,Ha Noi,TP HO Chi Minh,,,,,,,179,14.434372172006652
+452,2025-05-16,21:45:00,İrlanda 1.Ligi,2125723,Kerry FC,Wexford,1.0,0.0,1.0,1.0,,,452,14.525174697744601
+213,2025-05-16,21:15:00,İsviçre Challenge Ligi,2125809,Etoile Carouge,Aarau,1.0,1.0,1.0,3.0,,,213,14.560343402543776
+496,2025-05-18,19:10:00,Galler Premier Ligi - Avr. Ligi Play-Out,2169239,Haverfordwest C.,Caernarfon,,,,,,,496,14.635781496045917
+615,2025-05-17,08:00:00,Japonya J. Lig 2,2127367,Sapporo,Kat. Toyama,2.0,1.0,2.0,1.0,,,615,14.805951506066739
+310,2025-05-16,19:00:00,Polonya Ekstraklasa,2127490,Stal Mielec,Radomiak R.,1.0,1.0,2.0,2.0,,,310,14.830529322987767
+596,2025-05-18,15:15:00,İsveç Allsvenskan,2129799,AIK,Hammarby,,,,,,,596,14.888435109171144
+653,2025-05-17,15:00:00,Polonya Lig 2,2127477,Zaglebie II Lubin,P. Bielsko,1.0,4.0,1.0,4.0,,,653,15.117562634234396
+485,2025-05-18,21:15:00,Slovenya 1. SNL,2127650,Koper,Maribor,,,,,,,485,15.161474202728442
+659,2025-05-18,14:00:00,Vietnam V-Ligi,2129897,Nam Dinh FC,Hoang Anh,4.0,1.0,6.0,1.0,,,659,15.183843386968928
+787,2025-05-18,15:30:00,Hollanda Eredivisie,2129588,AZ Alkmaar,Almere City,,,,,,,787,15.2987744607207
+238,2025-05-17,14:30:00,Almanya 3. Lig,2127162,E. Cottbus,Ingolstadt,1.0,4.0,1.0,4.0,,,238,15.324252020898117
+620,2025-05-16,20:00:00,Danimarka 2.Ligi - Düşme Grubu,2141853,Frem,Hellerup,2.0,0.0,3.0,0.0,,,620,15.333072099223951
+696,2025-05-17,15:00:00,Danimarka 1.Ligi - Yükselme Grubu,2127122,Kolding,Odense,1.0,1.0,1.0,1.0,,,696,15.346758615421043
+376,2025-05-17,10:30:00,Güney Kore Lig 2,2127662,Bucheon,Hwaseong,1.0,0.0,1.0,0.0,,,376,15.483006813923453
+642,2025-05-17,02:00:00,ABD USL Championship,2125830,North Carolina,Oakland Roots SC,2.0,0.0,4.0,2.0,,,642,15.544719360606033
+374,2025-05-16,19:00:00,Avusturya 2.Ligi,2125592,SV Horn,Kapfenberg,0.0,0.0,3.0,1.0,,,374,15.599900640709224
+527,2025-05-18,14:00:00,Danimarka 2.Ligi - Düşme Grubu,2141881,Thisted,Helsingoer,0.0,0.0,1.0,2.0,,,527,15.718431855627331
+102,2025-05-18,15:30:00,Ukrayna Premier Lig,2127731,FC Levy Bereg Kiev,Rukh Vinnyky,,,,,,,102,15.72186693748551
+577,2025-05-16,21:30:00,İskoçya Lig 1 - Play-Off,2168308,Annan Athl.,East Fife,1.0,1.0,1.0,1.0,,,577,15.837777621876121
+562,2025-05-18,15:30:00,Hollanda Eredivisie,2129589,Heracles,NEC Nijmegen,,,,,,,562,15.991988619305607
+757,2025-05-16,19:00:00,Bahreyn Premier Ligi,2150502,Sitra Club,Al Bahrain,0.0,0.0,2.0,0.0,,,757,16.080435317490632
+668,2025-05-18,18:00:00,İngiltere Konferans Ligi - Play-Off,2161353,Scunthorpe,Chester,,,,,,,668,16.126729364629398
+89,2025-05-18,15:00:00,Danimarka 2. Lig Yük. Grb.,2141886,Fremad Amage,Middelfart,,,,,,,89,16.232889453205804
+72,2025-05-18,19:15:00,İtalya Serie C - Yükselme Turu,2173703,Atalanta U23,Cerignola,,,,,,,72,16.29204100166704
+440,2025-05-17,08:00:00,Japonya J. Lig 2,2127364,Iwata Jubilo,Iwaki FC,2.0,0.0,2.0,0.0,,,440,16.311266045282938
+585,2025-05-18,15:30:00,Ukrayna Premier Lig,2127738,Oleksandriya,Veres Rivne,,,,,,,585,16.38117517151929
+436,2025-05-17,21:30:00,İtalya Serie C Süper Kupası,2160405,Padova,V. Entella,0.0,0.0,0.0,1.0,,,436,16.52562555548201
+457,2025-05-18,16:00:00,Slovenya 1. SNL,2127648,Domzale,NK Bravo,,,,,,,457,16.616473753477305
+686,2025-05-18,14:00:00,İskoçya Premier Lig Kdn.Şmp.T.,2129708,Glasgow City (K),Heart of Midlothian ,2.0,0.0,2.0,0.0,,,686,16.647786639670755
+493,2025-05-18,10:30:00,Güney Kore Lig 2,2129742,Jeonnam Dragons,Cheongju FC,1.0,0.0,4.0,1.0,,,493,16.851483614210352
+466,2025-05-18,20:30:00,Polonya Lig 2,2127480,Chojniczanka,Wieczysta Krakow,,,,,,,466,16.9282544876901
+363,2025-05-17,19:00:00,Bahreyn Premier Ligi,2150496,Al Rifaa,Al-Shabbab,1.0,3.0,1.0,3.0,,,363,17.070087873236037
+542,2025-05-16,14:35:00,Çin Süper Ligi,2125626,Zhejiang,Henan Jianye,2.0,1.0,2.0,2.0,,,542,17.151049530568095
+237,2025-05-16,21:45:00,İrlanda 1.Ligi,2125720,Treaty United,UCD,1.0,0.0,4.0,0.0,,,237,17.180142607091483
+518,2025-05-16,19:00:00,Avusturya 2.Ligi,2125590,SV Stripfing,Aus Lustenau,1.0,0.0,2.0,0.0,,,518,17.276845776935097
+445,2025-05-18,15:30:00,Hollanda Eredivisie,2129590,Heerenveen,Feyenoord,,,,,,,445,17.316907922605584
+100,2025-05-18,14:00:00,Rusya Premier Ligi,2129698,Akhmat G.,D. Makhachkala,0.0,1.0,1.0,1.0,,,100,17.419977037872354
+488,2025-05-18,15:30:00,Ukrayna Premier Lig,2127735,Chernomorets,Dinamo Kiev,,,,,,,488,17.542251850888473
+142,2025-05-18,14:00:00,İskoçya Premier Lig Kdn.Şmp.T.,2129709,Celtic (K),Motherwell Lfc (K),6.0,0.0,6.0,0.0,,,142,17.721142739676807
+561,2025-05-17,14:30:00,İskoçya Premiership Şamp. Turu,2137514,Hibernian,Rangers,2.0,2.0,2.0,2.0,,,561,18.01009994419798
+672,2025-05-17,13:00:00,Güney Kore Lig 2,2127665,Cheonan City FC,Seongnam,1.0,1.0,1.0,1.0,,,672,18.050897484612786
+550,2025-05-17,18:30:00,Slovenya 1. SNL,2127649,Primorje,Mura,2.0,0.0,2.0,0.0,,,550,18.194735502336936
+790,2025-05-18,05:00:00,ABD USL Championship,2129890,Phoenix Rising,Monterey Bay FC,2.0,0.0,2.0,0.0,,,790,18.198615331942154
+760,2025-05-18,18:00:00,Sırbistan Superliga - Düşme Turu,2127608,FK Tekstilac Odzaci,FK Cukaricki,,,,,,,760,18.25328463592238
+160,2025-05-18,15:00:00,İsveç Allsvenskan,2129800,Hacken,Varnamo,,,,,,,160,18.649983914202178
+383,2025-05-17,08:00:00,Japonya J. Lig 2,2127366,JEF United,Sendai,0.0,0.0,0.0,0.0,,,383,18.788563010512537
+462,2025-05-17,18:00:00,Slovakya Superliga Düşme Turu,2127635,Dukla BB,Z Michalovce,2.0,3.0,2.0,3.0,,,462,18.866433155209815
+272,2025-05-17,18:00:00,Avusturya Bundesliga Küme Düşme Grubu,2126947,Grazer AK,LASK,1.0,0.0,1.0,0.0,,,272,18.97654868515347
+274,2025-05-17,10:30:00,Güney Kore Lig 2,2127664,Gyeongnam,Chungnam Asan,1.0,3.0,1.0,3.0,,,274,19.10852950909619
+284,2025-05-18,14:00:00,Vietnam V-Ligi,2129895,Binh Dinh,CLB Viettel,1.0,2.0,2.0,2.0,,,284,19.214671477805705
+171,2025-05-16,19:00:00,Avusturya 2.Ligi,2125593,Sturm Gr.(A),SV Lafnitz,1.0,0.0,2.0,1.0,,,171,19.264397213512805
+467,2025-05-16,20:00:00,Danimarka 1.Ligi - Düşme Grubu,2127120,Roskilde,Hilleroed,1.0,1.0,4.0,2.0,,,467,19.297116364887266
+464,2025-05-17,15:30:00,Polonya 1. Lig,2127486,Kotwica K,Pogon Siedl,1.0,1.0,1.0,1.0,,,464,19.474403713592878
+406,2025-05-18,03:00:00,Kanada Premier Ligi,2129382,Vancouver Langley FC,Hfx Wan,0.0,2.0,0.0,2.0,,,406,19.526507624252726
+372,2025-05-17,21:30:00,Cezayir 1. Lig,2157675,Paradou AC,USM Alger,2.0,0.0,3.0,1.0,,,372,19.73387949694636
+259,2025-05-17,08:00:00,Japonya J. Lig 2,2127369,Fujieda Myfc,Omiya Ardija,0.0,1.0,0.0,1.0,,,259,19.76283886489995
+446,2025-05-17,08:00:00,Japonya J. Lig 2,2127370,Mito Hollyhock,Roasso Kumamoto,2.0,1.0,2.0,1.0,,,446,20.174154257366027
+643,2025-05-18,17:00:00,"Danimarka Süper Lig, Düşme Turu",2129454,Sonderjyske,Lyngby,,,,,,,643,20.506523352338395
+684,2025-05-16,21:30:00,Polonya Ekstraklasa,2127496,Slask Wroclaw,Jagiellonia,0.0,0.0,1.0,1.0,,,684,20.514092716959233
+90,2025-05-16,15:00:00,Çin Süper Ligi,2125627,Yunnan Yukun,Meizhou Hakka,1.0,0.0,2.0,0.0,,,90,20.580566075791015
+128,2025-05-18,02:30:00,ABD USL Championship,2127800,Miami,Loudoun Utd.,2.0,1.0,2.0,1.0,,,128,20.604863503551776
+193,2025-05-18,05:00:00,ABD USL Championship,2129891,Orange Count,New Mexico,0.0,3.0,0.0,3.0,,,193,20.70841133452781
+734,2025-05-18,15:30:00,Çekya 1.Lig Sıralama Playoff,2169237,Bohemians Prag,Hradec Kralove,,,,,,,734,20.774207566114285
+223,2025-05-17,03:00:00,Kanada Premier Ligi,2127026,Valour FC,York 9 FC,2.0,1.0,2.0,1.0,,,223,20.826274270737912
+737,2025-05-18,15:00:00,Danimarka 2. Lig Yük. Grb.,2141884,Skive,Akademisk Bo,,,,,,,737,20.959231856153508
+789,2025-05-17,17:00:00,Belarus Premier Ligi,2125619,Dinamo Brest,Minsk,5.0,0.0,5.0,0.0,,,789,21.11271181066042
+201,2025-05-16,20:30:00,Fransa Ulusal Ligi,2125672,Nancy,FC Rouen,1.0,1.0,1.0,1.0,,,201,21.50534584702139
+228,2025-05-17,20:00:00,Romanya 1.Lig Şampiyonluk Turu,2127555,FCSB,Uni. Craiova,1.0,0.0,1.0,0.0,,,228,21.51697469441278
+590,2025-05-18,04:00:00,ABD USL Championship,2129887,Colorado Spr,Pittsburgh R,1.0,0.0,1.0,0.0,,,590,21.57116130392613
+700,2025-05-17,14:30:00,Almanya 3. Lig,2127170,Hannover 96 II,H. Rostock,2.0,1.0,2.0,1.0,,,700,21.59528883807762
+324,2025-05-19,19:00:00,Polonya Lig 2,2127472,LKS Lodz II,Pogon Grodzisk Mazow,,,,,,,324,21.63153485076822
+559,2025-05-18,00:30:00,Kanada Premier Ligi,2127025,Cavalry FC,Pacific FC,4.0,0.0,4.0,0.0,,,559,21.699894008957738
+126,2025-05-16,21:30:00,Avusturya 2.Ligi,2125595,Liefering,Admira Wacker,1.0,0.0,1.0,0.0,,,126,21.798183410550525
+648,2025-05-17,20:30:00,Polonya 1. Lig,2127481,G. Leczna,Wisla Plock,2.0,2.0,2.0,2.0,,,648,21.91298017157867
+111,2025-05-18,15:30:00,Hollanda Eredivisie,2129582,Breda,Willem II,,,,,,,111,22.048907002389033
+170,2025-05-18,16:00:00,Romanya 1. Ligi,2127558,Botosani,Hermannstadt,,,,,,,170,22.158709348696284
+49,2025-05-17,21:00:00,"Serie C, Düşme Playoff",2154543,Triestina,Calcio Caldiero Term,,,,,,,49,22.455462587085577
+321,2025-05-18,13:30:00,Rusya Premier Ligi,2129697,K. Sovetov,S. Moskova,0.0,2.0,0.0,2.0,,,321,22.531746492449273
+107,2025-05-18,16:00:00,Romanya 1. Ligi,2127561,Politehnica Iasi,P. Ploiesti,,,,,,,107,22.546223630577252
+332,2025-05-16,19:00:00,Norveç 1.Ligi,2125762,Stabaek,Mjondalen,0.0,0.0,4.0,0.0,,,332,22.858140781787128
+665,2025-05-18,15:00:00,Yunanistan Süper Ligi Düşme Grubu,2129579,Panserraikos,Levadeiakos,,,,,,,665,22.87912148663056
+326,2025-05-18,08:00:00,Japonya J. Lig 2,2129634,Oita Trinata,V-Varen,1.0,2.0,1.0,2.0,,,326,23.237846285746876
+616,2025-05-18,18:30:00,Slovenya 1. SNL,2127647,Nafta,Celje,,,,,,,616,23.34459466343333
+108,2025-05-17,21:30:00,İrlanda 1.Ligi,2127337,Longford,Finn Harps,0.0,0.0,0.0,0.0,,,108,23.40938914196609
+10,2025-05-16,21:45:00,İrlanda 1.Ligi,2125721,Cobh Rambler,Dundalk,0.0,2.0,1.0,2.0,,,10,23.472788500729944
+339,2025-05-19,20:30:00,Romanya 1.Lig Şampiyonluk Turu,2127554,Rapid 1923,Cluj,,,,,,,339,23.50250412190157
+381,2025-05-17,13:30:00,Polonya Lig 2,2127474,Hutnik Krak,Polonia Bytom,3.0,5.0,3.0,5.0,,,381,23.58988978354922
+129,2025-05-18,08:00:00,Japonya J. Lig 2,2129633,R Yamaguchi,M Yamagata,1.0,0.0,1.0,0.0,,,129,23.59670739743153
+243,2025-05-16,19:00:00,Norveç Eliteserien,2125752,Stromsgodset,Bryne,0.0,1.0,0.0,2.0,,,243,23.62629044094735
+155,2025-05-16,20:55:00,Belarus Premier Ligi,2125622,FC Gomel,Naftan,1.0,0.0,2.0,0.0,,,155,23.65336973879198
+490,2025-05-17,16:00:00,"Serie C, Düşme Playoff",2154540,Foggia,Acr Messina,1.0,0.0,1.0,0.0,,,490,23.703320442503408
+101,2025-05-18,05:00:00,ABD USL Championship,2129888,Sacramento R,Las Vegas Li,5.0,0.0,5.0,0.0,,,101,23.865542105722223
+123,2025-05-18,14:00:00,İskoçya Premier Lig Kdn.Şmp.T.,2129710,Rangers LFC (K),Hibernian (K),0.0,1.0,0.0,1.0,,,123,24.001956170279122
+692,2025-05-16,14:30:00,Çin 1. Ligi,2125629,Guangxi Bao,Foshan Nanshi FC,0.0,1.0,0.0,1.0,,,692,24.092868239377395
+444,2025-05-16,20:30:00,Fransa Ulusal Ligi,2125668,Paris 13 Atletico,Concarneau,,,,,,,444,24.101730228346682
+522,2025-05-18,19:00:00,Finlandiya Ykkonen,2129480,Ols Oulu,PK Keski-Uusimaa,,,,,,,522,24.10515297607547
+691,2025-05-16,19:00:00,Norveç 1.Ligi,2125763,Lyn Toppo.,Skeid,1.0,0.0,1.0,1.0,,,691,24.52016109245614
+788,2025-05-17,10:30:00,Çin 1. Ligi,2127035,Shaanxi Union,Nantong Zhiyun,3.0,2.0,3.0,2.0,,,788,24.56174057350171
+333,2025-05-16,14:30:00,Çin 1. Ligi,2125630,Nanjing City,S. Dongwu,0.0,0.0,2.0,1.0,,,333,24.578932035383474
+317,2025-05-18,18:30:00,Polonya Ekstraklasa,2127494,Katowice,Lech Poznan,,,,,,,317,24.99497349468488
+587,2025-05-17,19:00:00,Bahreyn Premier Ligi,2150494,Aali,East Riffa,1.0,0.0,1.0,0.0,,,587,25.000231998923525
+429,2025-05-17,13:00:00,Güney Kore Lig 2,2127663,Busan IPark,SS Bluewings,1.0,4.0,1.0,4.0,,,429,25.355137546461858
+513,2025-05-18,14:30:00,Belçika Pro Lig Şampiyonluk Turu,2129264,Anderlecht,Club Brugge,,,,,,,513,25.423815606631514
+644,2025-05-17,16:30:00,Almanya Bundesliga,2127175,Saint Pauli,Bochum,0.0,2.0,0.0,2.0,,,644,25.538981968747322
+115,2025-05-18,20:55:00,Belarus Premier Ligi,2125616,Max. Rogachev,Bate Borisov,,,,,,,115,25.60542325367812
+112,2025-05-18,16:00:00,Romanya 1. Ligi,2127557,U. Slobozia,Sepsi,,,,,,,112,25.783475328201973
+438,2025-05-17,14:30:00,Almanya 3. Lig,2127166,D. Dresden,Unterhaching,3.0,0.0,3.0,0.0,,,438,26.055319994196967
+675,2025-05-18,15:30:00,Hollanda Eredivisie,2129586,S. Rotterdam,PSV,,,,,,,675,26.31670762082522
+98,2025-05-17,14:30:00,Çin 1. Ligi,2127034,Hebei Kungfu,Qingdao Red,0.0,2.0,0.0,2.0,,,98,26.39492754299583
+139,2025-05-18,13:00:00,Güney Kore Lig 2,2129743,Gimpo Citizen,Seoul E-Land,0.0,1.0,1.0,2.0,,,139,26.838159400376174
+779,2025-05-17,19:15:00,Suudi Profesyonel Ligi,2162464,Al Fayha,AL Akhdood,2.0,0.0,2.0,0.0,,,779,27.02083825494687
+507,2025-05-17,20:00:00,"Mısır Premier Lig, Şmp.Turu",2129463,Al Masry,Cleopatra,0.0,4.0,0.0,4.0,,,507,27.056638741721052
+20,2025-05-17,17:00:00,Faroe Adaları Premier Ligi,2125655,FC Suduroy,Runavik,1.0,7.0,1.0,7.0,,,20,27.168384199285757
+225,2025-05-18,20:30:00,Macaristan 1. Ligi,2127315,Ferencvaros,Fehervar,,,,,,,225,27.168588480081183
+301,2025-05-18,17:00:00,İtalya Serie C - Yükselme Turu,2173705,Crotone,Vicenza,,,,,,,301,27.21718574724433
+755,2025-05-18,16:00:00,Finlandiya Ykkonen (2.Lig),2129486,Klubi 04,TPS Turku,,,,,,,755,27.24726958797891
+634,2025-05-17,19:00:00,Bahreyn Premier Ligi,2150499,Al-Ahli Manama,Al-Muharraq,2.0,1.0,2.0,1.0,,,634,27.49020007202567
+134,2025-05-17,21:00:00,"Serie C, Düşme Playoff",2154542,SPAL,Milan U23,2.0,0.0,2.0,0.0,,,134,27.70184470391818
+512,2025-05-16,20:30:00,Fransa Ulusal Ligi,2125666,Bourg-Peronn,Dijon,0.0,1.0,2.0,1.0,,,512,28.24140577237613
+120,2025-05-17,18:00:00,Slovakya Superliga Düşme Turu,2127634,KFC Komarno,Ruzomberok,1.0,2.0,1.0,2.0,,,120,28.50037192739772
+144,2025-05-17,19:00:00,Polonya Lig 2,2127476,KKS Kalisz,Olimp Elblag,2.0,0.0,2.0,0.0,,,144,28.663900641747972
+396,2025-05-18,15:15:00,İsviçre Süper Lig Şamp. Turu,2148049,Young Boys,Basel,,,,,,,396,28.692718588519984
+431,2025-05-17,16:00:00,Finlandiya Ykkonen (2.Lig),2127157,Japs,Jippo,1.0,1.0,1.0,1.0,,,431,28.763993116394666
+730,2025-05-16,21:00:00,Romanya 1.Lig Şampiyonluk Turu,2127556,D. Bükreş,U. Cluj,1.0,0.0,1.0,3.0,,,730,29.391808382608918
+348,2025-05-18,22:00:00,Brezilya Serie B,2126990,Goianiense,Remo,,,,,,,348,29.68575415919225
+1,2025-05-17,18:30:00,"Serie C, Düşme Playoff",2154544,Pro Vercelli,Pro Patria,1.0,0.0,1.0,0.0,,,1,30.03250905269155
+63,2025-05-17,20:00:00,"Mısır Premier Lig, Şmp.Turu",2127128,Al Ahly,N. Bank Egypt,2.0,1.0,2.0,1.0,,,63,30.20230951434013
+106,2025-05-16,20:30:00,Fransa Ulusal Ligi,2125667,Le Mans,Versailles 78,2.0,0.0,2.0,0.0,,,106,30.61437897459297
+319,2025-05-20,01:00:00,Brezilya Serie B,2126991,Volta Redonda,Amazonas FC AM,,,,,,,319,31.040186855107688
+305,2025-05-17,10:00:00,Çin 1. Ligi,2127033,Heilongjiang,Shenyang Ct,3.0,3.0,3.0,3.0,,,305,31.300616607344978
+53,2025-05-18,19:15:00,İtalya Serie C - Yükselme Turu,2173702,Vis Pesaro,Pescara C.,,,,,,,53,32.064528688256125
+314,2025-05-16,19:00:00,Bahreyn Premier Ligi,2150495,Manama Club,Malkiya Club,0.0,0.0,0.0,1.0,,,314,32.524876633125
+413,2025-05-18,02:00:00,ABD USL Championship,2127799,Hartford Ath,Louisville,0.0,1.0,1.0,1.0,,,413,32.611488773130255
+130,2025-05-18,22:00:00,Brezilya Serie B,2126989,CRB,Criciuma,,,,,,,130,33.09152308371436
+12,2025-05-18,17:00:00,Finlandiya Ykkonen,2129482,FC Inter 2,Jazz,,,,,,,12,33.401860726612234
+227,2025-05-17,14:30:00,Çin 1. Ligi,2127036,Guangzhou E-Power FC,Shang Ji Cit,2.0,0.0,2.0,0.0,,,227,33.499743282598445
+81,2025-05-19,19:00:00,Cezayir 1. Lig,2157673,MC Alger,ES Setif,,,,,,,81,33.872141945852796
+247,2025-05-17,18:00:00,Çekya 1. Lig Düşme Turu,2143664,Slovacko,Dukla Prag,3.0,2.0,3.0,2.0,,,247,34.10398510438333
+397,2025-05-17,14:30:00,İskoçya Premiership Şamp. Turu,2137513,Celtic,ST Mirren,1.0,1.0,1.0,1.0,,,397,34.12177457284424
+661,2025-05-17,15:45:00,Polonya Ekstraklasa,2127492,Pogon,Lechia Gdansk,3.0,3.0,3.0,3.0,,,661,34.765088810471916
+481,2025-05-17,16:00:00,Slovenya 1. SNL,2127646,O. Ljubljana,NK Radomlje,5.0,0.0,5.0,0.0,,,481,35.23054072818071
+516,2025-05-17,18:00:00,Slovakya Superliga Şampiyonluk Turu,2127632,S. Bratislava,FK Kosice,1.0,0.0,1.0,0.0,,,516,35.39586699037051
+528,2025-05-18,17:00:00,Belarus Premier Ligi,2125618,A. Dzerzhinsk, Vitebsk,,,,,,,528,35.47317578114484
+666,2025-05-18,19:45:00,Hırvatistan 1. HNL,2127052,Hajduk Split,Rijeka,,,,,,,666,36.01193829829214
+26,2025-05-17,21:15:00,Polonya Ekstraklasa,2127493,Korona Kielce,Rakow C.,1.0,0.0,1.0,1.0,,,26,36.53030522730408
+749,2025-05-18,09:00:00,Japonya J. Lig,2129631,Kawasaki,C. Osaka,0.0,0.0,2.0,0.0,,,749,36.535934366045716
+95,2025-05-16,19:00:00,Avusturya 2.Ligi,2125591,St. Polten,R. Wien II,0.0,0.0,3.0,1.0,,,95,36.699905994430026
+316,2025-05-16,20:23:00,Polonya Lig 2,2127479,Olimpia,Czestochowa,2.0,1.0,2.0,1.0,,,316,36.750383671466615
+224,2025-05-18,12:00:00,Japonya J. Lig 2,2129632,Ehime,T Vortis,0.0,1.0,0.0,2.0,,,224,36.837009922087866
+511,2025-05-17,22:00:00,Brezilya Serie B,2126987,Operario,Botafogo,0.0,0.0,3.0,0.0,,,511,36.900050135467296
+622,2025-05-20,03:35:00,Brezilya Serie B,2126985,Coritiba,America MG,,,,,,,622,36.903761325913656
+534,2025-05-16,19:00:00,Norveç 1.Ligi,2125759,Aalesunds,Hodd IL,0.0,0.0,2.0,0.0,,,534,37.11539303307996
+519,2025-05-17,08:00:00,Japonya J. Lig 2,2127365,Blaublitz Akita,Sagan Tosu,1.0,2.0,1.0,2.0,,,519,37.22197469237762
+103,2025-05-18,19:15:00,İtalya Serie C - Yükselme Turu,2173704,Giana Erminio,Ternana,,,,,,,103,37.775858693085986
+66,2025-05-18,20:00:00,"Mısır Premier Lig, Şmp.Turu",2129462,Farco,Haras Hodood,,,,,,,66,38.796640318460575
+4,2025-05-17,16:00:00,Finlandiya Ykkonen (2.Lig),2127156,Salpa,EIF,0.0,1.0,0.0,1.0,,,4,39.229746366755926
+477,2025-05-16,17:00:00,Belarus Premier Ligi,2125623,Smorgon,S. Mozyr,0.0,0.0,0.0,2.0,,,477,39.96451175730789
+199,2025-05-17,15:00:00,Belarus Premier Ligi,2125617,Slutsk,Isloch,1.0,1.0,1.0,1.0,,,199,40.30018610378866
+48,2025-05-16,21:00:00,Hollanda Eredevisie - Play-Out,2168301,Cambuur,Den Bosch,,,,,,,48,40.41895223778074
+738,2025-05-17,01:00:00,Brezilya Serie B,2126984,Chapecoense,Cuiaba,1.0,0.0,2.0,1.0,,,738,41.20321103991775
+425,2025-05-19,00:30:00,Brezilya Serie B,2126986,Paysandu SC PA,Goias,,,,,,,425,42.127896933030016
+328,2025-05-18,02:30:00,Brezilya Serie B,2126988,Athletic Club Sjdr M,Gremio Novo,0.0,0.0,0.0,2.0,,,328,42.36894735534505
+206,2025-05-17,22:00:00,Fransa Ligue 1,2129490,Marsilya,Rennes,3.0,1.0,4.0,2.0,,,206,42.568014987781616
+762,2025-05-17,18:00:00,Slovakya Superliga Şampiyonluk Turu,2127630,S. Trnava,Podbrezova,2.0,1.0,2.0,1.0,,,762,42.85293572207159
+233,2025-05-18,10:30:00,Güney Kore Lig 2,2129741,Ansan Greene,Incheon Utd.,0.0,1.0,0.0,2.0,,,233,43.255159229853724
+556,2025-05-16,21:45:00,İrlanda Premier Lig,2125717,Galway U,Sligo R.,0.0,0.0,0.0,1.0,,,556,43.59246265124283
+161,2025-05-17,14:30:00,Çin 1. Ligi,2127037,Chongqing Tongli.,Y. Longding,1.0,0.0,1.0,0.0,,,161,44.18817036266607
+343,2025-05-18,00:30:00,Brezilya Serie B,2126992,Vila Nova,Paranaense,2.0,0.0,2.0,1.0,,,343,44.372609794782186
+297,2025-05-16,19:00:00,Norveç Eliteserien,2125750,Viking,Sandefjord,0.0,0.0,3.0,1.0,,,297,44.5136911522736
+360,2025-05-17,07:30:00,Japonya J. Lig 2,2127368,Ventforet Kofu,FC Imabari,1.0,0.0,1.0,0.0,,,360,44.85865245412528
+619,2025-05-19,02:00:00,ABD Major Ligi,2129878,Inter Miami,Orlando C.,,,,,,,619,45.00368096056144
+242,2025-05-16,19:00:00,Belarus Premier Ligi,2125621,Torp. Zhodino,Neman Grodno,0.0,0.0,0.0,1.0,,,242,45.48274947713694
+398,2025-05-17,20:00:00,"Mısır Premier Lig, Şmp.Turu",2127127,Petrojet,Pyramids,0.0,2.0,0.0,2.0,,,398,45.83684544119502
+277,2025-05-17,17:30:00,Hollanda Eredevisie - Play-Out,2168302,ADO Den Haag,Telstar,,,,,,,277,47.03505607522969
+432,2025-05-18,02:15:00,ABD Major Ligi,2127794,Columbus,Cincinnati,0.0,1.0,1.0,1.0,,,432,47.14865427559943
+736,2025-05-16,21:30:00,Avusturya 2.Ligi,2125597,Schwarz Weiss Bregen,Ried,0.0,2.0,1.0,4.0,,,736,47.511871148166755
+256,2025-05-18,17:30:00,İsviçre Süper Lig Şamp. Turu,2148046,Lausanne,Lugano,,,,,,,256,47.6399622166097
+197,2025-05-18,20:00:00,Cezayir 1. Lig,2102458,Constantine,US Biskra,,,,,,,197,47.75917608167042
+173,2025-05-18,20:00:00,İspanya La Liga,2129794,Atl. Madrid,Real Betis,,,,,,,173,48.89846827866901
+350,2025-05-17,19:30:00,İskoçya Championship - Play-Out,2168309,Airdrieonian,Cove Rangers,0.0,0.0,0.0,0.0,,,350,52.89952551772087
+289,2025-05-19,20:00:00,İsveç Allsvenskan,2131248,Mjallby,Brommapojkar,,,,,,,289,53.05278315036829
+234,2025-05-18,22:00:00,İspanya La Liga 2,2129778,Almeria,R. Santander,,,,,,,234,54.157785220594114
+708,2025-05-17,22:00:00,Fransa Ligue 1,2129491,Strasbourg,Le Havre,1.0,1.0,2.0,3.0,,,708,54.31711608692053
+487,2025-05-17,19:00:00,Belarus Premier Ligi,2125620,Dinamo Minsk,Molodechno,3.0,2.0,3.0,2.0,,,487,54.4956282650269
+769,2025-05-18,17:15:00,İspanya La Liga 2,2129776,Castellon,C. Eldense,,,,,,,769,55.735329011319216
+628,2025-05-18,05:30:00,ABD Major Ligi,2129883,San Diego FC,Kansas City,0.0,0.0,0.0,0.0,,,628,55.8376844075755
+127,2025-05-17,14:30:00,Almanya 3. Lig,2127168,Saarbrucken,B. Dortmund II,2.0,1.0,2.0,1.0,,,127,58.48450906009216
+152,2025-05-16,20:00:00,"Mısır Premier Lig, Düşme Turu",2124243,Ismaily,Future FC,1.0,0.0,1.0,2.0,,,152,59.026274657985994
+770,2025-05-17,14:00:00,Romanya 1. Ligi,2127559,Uta Arad,SCM Gloria Buzau,0.0,0.0,0.0,0.0,,,770,59.993743840503896
+502,2025-05-18,21:45:00,İtalya Serie A,2129616,Inter,Lazio,,,,,,,502,60.76563996207069
+476,2025-05-16,20:00:00,"Mısır Premier Lig, Düşme Turu",2124242,Talaea Gaish,ENPPI,0.0,1.0,1.0,1.0,,,476,60.890929537986196
+428,2025-05-18,19:00:00,Türkiye Süper Lig,2129830,Samsunspor,Sivasspor,,,,,,,428,61.19896404351957
+441,2025-05-17,16:30:00,Almanya Bundesliga,2127178,B.Dortmund,Holstein K.,3.0,0.0,3.0,0.0,,,441,62.30507844469823
+122,2025-05-17,18:00:00,Fransa Ligue 1 - Play-Out,2168300,Metz,Dunkerque,1.0,0.0,1.0,0.0,,,122,62.481403633401214
+403,2025-05-18,03:30:00,ABD Major Ligi,2129881,Nashville SC,DC United,0.0,0.0,0.0,0.0,,,403,67.26385061829276
+723,2025-05-19,20:00:00,İsveç Allsvenskan,2131246,Sirius,Norrköping,,,,,,,723,67.8751346223343
+215,2025-05-18,02:30:00,ABD Major Ligi,2127793,NE Revolution,San Jose E.,0.0,0.0,0.0,0.0,,,215,70.8112808809444
+114,2025-05-18,02:30:00,ABD Major Ligi,2127795,Charlotte,Chicago Fire,0.0,1.0,1.0,4.0,,,114,72.07406052110564
+44,2025-05-17,19:00:00,Finlandiya Veikkausliiga,2127143,Vaasan Ps,FF Jaro,0.0,0.0,0.0,0.0,,,44,72.90518157168253
+489,2025-05-16,20:00:00,"Mısır Premier Lig, Düşme Turu",2125651,Smouha,Sakandary,0.0,0.0,0.0,0.0,,,489,75.24665108827102
+258,2025-05-17,18:00:00,Avusturya Bundesliga Küme Düşme Grubu,2126948,TSV Hartberg,WSG Tirol,3.0,2.0,3.0,2.0,,,258,75.30324760592998
+226,2025-05-17,17:00:00,Finlandiya Veikkausliiga,2127142,Oulu,Mariehamn,0.0,1.0,0.0,1.0,,,226,76.24338725423993
+60,2025-05-17,18:00:00,Avusturya Bundesliga Küme Düşme Grubu,2126946,Altach,A. Klagenfurt,0.0,0.0,0.0,0.0,,,60,76.43791467589887
+302,2025-05-16,21:00:00,Norveç Eliteserien,2125757,Valerenga,H.Kameratene,1.0,1.0,1.0,1.0,,,302,77.08503940454332
+454,2025-05-18,20:00:00,İspanya La Liga,2129790,Celta Vigo,Vallecano,,,,,,,454,77.2733932217293
+0,2025-05-18,18:30:00,İngiltere Premier Lig,2129466,Arsenal,Newcastle,,,,,,,0,80.37138110048875
+50,2025-05-18,17:00:00,İngiltere Premier Lig,2129470,Brentford,Fulham,,,,,,,50,80.9593737624001
+716,2025-05-16,21:30:00,İspanya La Liga 2,2129782,Levante,Albacete,1.0,0.0,1.0,0.0,,,716,90.88239488481801
+557,2025-05-16,21:00:00,Portekiz Premier Lig,2127509,Famalicao,Casa Pia,1.0,0.0,2.0,1.0,,,557,91.92253804154885
+286,2025-05-17,16:30:00,Almanya Bundesliga,2127180,Augsburg,Union Berlin,1.0,2.0,1.0,2.0,,,286,92.87328248748396
+670,2025-05-17,13:00:00,Güney Kore K-Lig 1,2127660,Gimcheon S.,Jeju Utd.,1.0,1.0,1.0,1.0,,,670,92.93981385821685
+180,2025-05-18,03:30:00,ABD Major Ligi,2129880,Minnesota Utd.,St. Louis,3.0,0.0,3.0,0.0,,,180,93.64039352757977
+290,2025-05-17,22:00:00,Fransa Ligue 1,2129495,Nice,Brest,3.0,0.0,6.0,0.0,,,290,95.08222020966907
+239,2025-05-17,22:00:00,Fransa Ligue 1,2129496,Nantes,Montpellier,2.0,0.0,3.0,0.0,,,239,97.86716814131285
+592,2025-05-16,21:45:00,İskoçya Premiership Düş./Yük.,2168307,Livingston,Partick Thistle,1.0,0.0,2.0,0.0,,,592,97.98720375640896
+143,2025-05-17,22:00:00,Fransa Ligue 1,2129493,St. Etienne,Toulouse,1.0,2.0,2.0,3.0,,,143,98.87610732628988
+517,2025-05-18,20:00:00,Yunanistan Süper Ligi Düşme Grubu,2129581,Volos,Athens Kallithea FC,,,,,,,517,99.207238143192
+5,2025-05-18,16:30:00,Almanya 2. Bundesliga,2129501,Hertha Berlin,Hannover,,,,,,,5,100.01214776215932
+349,2025-05-17,15:00:00,Çin Süper Ligi,2127030,Shanghai Sipg,S. Luneng,1.0,1.0,1.0,1.0,,,349,101.41910421611892
+538,2025-05-18,16:30:00,Almanya 2. Bundesliga,2129505,Köln,Kaiserslautern,,,,,,,538,103.79555144610006
+418,2025-05-16,22:15:00,İngiltere Premier Lig,2129467,Chelsea,Man. United,0.0,0.0,1.0,0.0,,,418,105.95538023149173
+252,2025-05-19,20:00:00,İsveç Superettan (2.Lig),2131252,Landskrona,Helsingborg,,,,,,,252,107.41068661916282
+469,2025-05-18,04:00:00,Meksika Primera Ligi Kapanış Play-Off,2170641,Dep. Toluca,Tigres Uanl,3.0,0.0,3.0,0.0,,,469,108.32318542214313
+267,2025-05-17,20:00:00,Portekiz Premier Lig,2127506,Arouca,Boavista,4.0,1.0,4.0,1.0,,,267,112.59946847121437
+581,2025-05-18,20:00:00,İspanya La Liga,2129793,Barcelona,Villarreal,,,,,,,581,119.50127572540804
+275,2025-05-18,16:30:00,Almanya 2. Bundesliga,2129500,Darmstadt 98,Regensburg,,,,,,,275,119.67663431096315
+650,2025-05-18,03:30:00,ABD Major Ligi,2129879,Dallas,Houston Dynamo,0.0,2.0,0.0,2.0,,,650,121.38889982201829
+727,2025-05-17,23:30:00,ABD Major Ligi,2127791,New York City,New York RB,1.0,0.0,2.0,0.0,,,727,125.1709115569588
+778,2025-05-17,10:30:00,Güney Kore K-Lig 1,2127661,Jeonbuk,Anyang,2.0,0.0,2.0,0.0,,,778,126.00456420304785
+354,2025-05-18,04:30:00,ABD Major Ligi,2129882,Colorado,Real Salt Lake,1.0,0.0,1.0,0.0,,,354,127.73306110792143
+220,2025-05-16,19:00:00,Norveç Eliteserien,2125753,Molde,Kristiansund,0.0,1.0,0.0,1.0,,,220,129.62564946799688
+411,2025-05-18,20:00:00,İspanya La Liga,2129789,R. Sociedad,Girona,,,,,,,411,129.9559298377723
+362,2025-05-18,17:00:00,Belçika Pro Lig Avrupa Ligi Playoff,2129262,Mechelen,Charleroi,,,,,,,362,131.56184933330783
+32,2025-05-18,16:30:00,Rusya Premier Ligi,2129696,D. Moskova,Akron Tolyatti,,,,,,,32,131.90661166143263
+410,2025-05-17,16:30:00,Almanya Bundesliga,2127177,Leipzig,Stuttgart,2.0,3.0,2.0,3.0,,,410,132.62372072898572
+121,2025-05-17,21:30:00,ABD Major Ligi,2127792,Montreal Impact,Toronto,0.0,3.0,1.0,6.0,,,121,134.62854637854488
+377,2025-05-18,19:00:00,Türkiye Süper Lig,2129831,Rizespor,Göztepe,,,,,,,377,136.31074865908408
+756,2025-05-17,16:30:00,Rusya Premier Ligi,2127578,Khimki,R. Kazan,3.0,2.0,3.0,2.0,,,756,136.77733584187115
+636,2025-05-19,20:10:00,İsveç Allsvenskan,2131247,Elfsborg,Djurgarden,,,,,,,636,141.62413283053135
+627,2025-05-17,16:30:00,Almanya Bundesliga,2127179,Mainz,B.Leverkusen,2.0,2.0,2.0,2.0,,,627,142.2570268914685
+414,2025-05-18,02:30:00,ABD Major Ligi,2127796,Atlanta Utd.,Philadelphia U.,0.0,0.0,0.0,1.0,,,414,143.58894073012723
+347,2025-05-17,08:00:00,Japonya J. Lig,2127359,V. Kobe,Gamba Osaka,3.0,2.0,3.0,2.0,,,347,145.51974505200312
+296,2025-05-17,17:00:00,Finlandiya Veikkausliiga,2127144,Inter Turku,Tampereen,3.0,1.0,3.0,1.0,,,296,146.56419207978456
+641,2025-05-18,20:00:00,İspanya La Liga,2129792,Osasuna,Espanyol,,,,,,,641,147.1925347971153
+576,2025-05-19,20:00:00,Türkiye 1. Lig Yükselme Playoff,2174497,Boluspor,Bandırmaspor,,,,,,,576,148.2392785330527
+794,2025-05-19,04:15:00,Meksika Primera Ligi Kapanış Play-Off,2146213,America,Cruz Azul,,,,,,,794,149.30686722317904
+41,2025-05-17,19:15:00,Belçika Pro Lig Avrupa Ligi Playoff,2126960,S. Liege,FCV Dender,0.0,0.0,0.0,0.0,,,41,150.13545650511736
+702,2025-05-17,14:35:00,Çin Süper Ligi,2127029,Chengdu R.,Qingdao Yth. Is.,1.0,1.0,1.0,1.0,,,702,152.25682546276863
+422,2025-05-17,10:00:00,Japonya J. Lig,2127356,Urawa Red,Tokyo,3.0,2.0,3.0,2.0,,,422,152.9624535629576
+231,2025-05-18,13:15:00,Polonya Ekstraklasa,2127497,Motor Lublin,Zaglebie Lubin,1.0,0.0,1.0,0.0,,,231,156.7428907478741
+323,2025-05-16,18:00:00,Finlandiya Veikkausliiga,2125661,Gnistan,Seinöjoen,1.0,1.0,2.0,2.0,,,323,157.75270996087505
+573,2025-05-17,20:00:00,Portekiz Premier Lig,2127510,Avs Futebol Sad,Moreirense,0.0,3.0,0.0,3.0,,,573,158.98972513970833
+266,2025-05-18,21:45:00,İtalya Serie A,2129620,Roma,Milan,,,,,,,266,160.81385325897767
+203,2025-05-19,22:00:00,İrlanda Premier Lig,2131239,Shamrock,St Patricks,,,,,,,203,162.26535181609162
+639,2025-05-18,22:00:00,Brezilya Serie A,2129352,Corinthians,Santos,,,,,,,639,162.4327639363437
+744,2025-05-17,16:30:00,Almanya Bundesliga,2127172,Heidenheim,W. Bremen,1.0,4.0,1.0,4.0,,,744,163.49151109461312
+632,2025-05-17,16:00:00,İsveç Superettan (2.Lig),2127684,Orebro,Sundsvall,1.0,2.0,1.0,2.0,,,632,164.7893819394927
+486,2025-05-16,20:00:00,İsveç Superettan (2.Lig),2125800,Orgryte,Varbergs,2.0,0.0,5.0,1.0,,,486,165.24537270374623
+508,2025-05-17,22:00:00,Fransa Ligue 1,2129489,Lille,Reims,1.0,0.0,2.0,1.0,,,508,165.766722535013
+451,2025-05-17,09:00:00,Japonya J. Lig,2127361,Kashima,Shimizu,1.0,0.0,1.0,0.0,,,451,166.06837326836194
+241,2025-05-19,20:00:00,Danimarka Süper Lig Şampiyonluk Turu,2131219,Brondby,Midtjylland,,,,,,,241,166.84275141581668
+117,2025-05-17,16:30:00,Almanya Bundesliga,2127173,Freiburg,E.Frankfurt,1.0,3.0,1.0,3.0,,,117,166.87506044942725
+43,2025-05-16,21:30:00,İngiltere Premier Lig,2129468,Aston Villa,Tottenham,0.0,0.0,2.0,0.0,,,43,168.76980357872074
+315,2025-05-17,12:35:00,A-Ligi Playofflar,2167661,Melbourne V.,Auckland FC,0.0,1.0,0.0,1.0,,,315,169.3739776352908
+545,2025-05-18,17:30:00,İsviçre Süper Lig Şamp. Turu,2148047,Luzern,Servette,,,,,,,545,169.40266674406277
+651,2025-05-17,20:30:00,İtalya Serie B - Yükselme Turu,2172726,Juve Stabia,Palermo,1.0,0.0,1.0,0.0,,,651,169.64717091658196
+610,2025-05-18,21:45:00,İtalya Serie A,2129619,Lecce,Torino,,,,,,,610,170.55476832970686
+409,2025-05-17,18:30:00,Polonya Ekstraklasa,2127495,Piast Gliwice,Gornik Zabrze,2.0,0.0,2.0,0.0,,,409,171.39056887705345
+172,2025-05-16,21:45:00,İrlanda Premier Lig,2125718,St Patricks,Cork City,1.0,0.0,3.0,2.0,,,172,171.53111875108846
+148,2025-05-17,08:00:00,Japonya J. Lig,2127358,Yokohama M.,Kyoto Sanga,0.0,3.0,0.0,3.0,,,148,174.76508661629182
+13,2025-05-17,16:30:00,Almanya Bundesliga,2127174,M'Gladbach,Wolfsburg,0.0,1.0,0.0,1.0,,,13,175.08248313295078
+455,2025-05-18,18:00:00,Avusturya Bundesliga Şampiyonluk Turu,2129259,Wolfsberger,Austria Wien,,,,,,,455,175.22526901106465
+68,2025-05-16,22:00:00,İngiltere Lig 2 - Play-Off,2161276,Walsall,Chesterfield,0.0,0.0,2.0,1.0,,,68,177.4862315786777
+426,2025-05-16,21:45:00,Belçika Pro Lig Avrupa Ligi Playoff,2125624,OH Leuven,KVC Westerlo,0.0,1.0,0.0,2.0,,,426,177.78886410571386
+715,2025-05-18,22:00:00,Brezilya Serie A,2129354,Bahia,Vitoria BA,,,,,,,715,178.42126302657985
+11,2025-05-17,19:00:00,İsviçre Süper Lig Düşme Turu,2147969,Winterthur,Yverdon,2.0,2.0,2.0,2.0,,,11,180.81257450741631
+192,2025-05-17,19:00:00,Rusya Premier Ligi,2127576,Nizhny Nov.,Fakel,1.0,1.0,1.0,1.0,,,192,181.38507490970696
+669,2025-05-19,00:30:00,Brezilya Serie A,2129348,Flamengo,Botafogo,,,,,,,669,181.42870417880405
+474,2025-05-18,17:15:00,İspanya La Liga 2,2129786,Real Oviedo,Zaragoza,,,,,,,474,182.26451163076155
+64,2025-05-18,16:00:00,İsveç Superettan (2.Lig),2129810,Brage,Oddevold,,,,,,,64,183.6303607794746
+273,2025-05-17,18:15:00,İtalya Serie B - Yükselme Turu,2172727,Catanzaro,Cesena,1.0,0.0,1.0,0.0,,,273,184.42163267903257
+240,2025-05-16,21:45:00,İrlanda Premier Lig,2125715,Bohemians,Shelbourne,1.0,0.0,1.0,0.0,,,240,184.5369870784716
+285,2025-05-17,22:00:00,Fransa Ligue 1,2129497,Lyon,Angers,0.0,0.0,2.0,0.0,,,285,185.0471129199264
+308,2025-05-19,02:30:00,Brezilya Serie A,2129349,Internacional,Mirassol FC SP,,,,,,,308,185.780557647995
+366,2025-05-17,14:30:00,İngiltere Lig 2 - Play-Off,2161275,Wimbledon,Notts C.,1.0,0.0,1.0,0.0,,,366,185.82804739866367
+250,2025-05-19,21:30:00,İtalya Serie B Düşme Playoff,2172728,Salernitana,Frosinone,,,,,,,250,187.5312040701493
+21,2025-05-17,16:00:00,İsveç Superettan (2.Lig),2127683,Östersunds,Sandvikens,2.0,2.0,2.0,2.0,,,21,188.05471198563473
+618,2025-05-17,22:00:00,İspanya La Liga 2,2129783,Malaga,S.Gijon,0.0,0.0,2.0,1.0,,,618,193.54628748699878
+743,2025-05-18,13:00:00,Güney Kore K-Lig 1,2129740,Suwon City,Daejeon Citi,0.0,0.0,3.0,0.0,,,743,194.05432873296076
+709,2025-05-19,21:30:00,İspanya La Liga 2,2129780,Cordoba,Mirandes,,,,,,,709,194.5369396798459
+732,2025-05-17,21:00:00,Hollanda Eredevisie - Play-Out,2168303,Dordrecht,Graafschap,2.0,0.0,2.0,0.0,,,732,194.60386070168283
+449,2025-05-19,21:45:00,İrlanda Premier Lig,2131238,Shelbourne,Drogheda,,,,,,,449,194.7774286204641
+183,2025-05-18,16:30:00,Almanya 2. Bundesliga,2129503,Magdeburg,F.Düsseldorf,,,,,,,183,195.6322667659913
+601,2025-05-18,21:45:00,İtalya Serie A,2129621,Cagliari,Venezia,,,,,,,601,197.36240548797528
+185,2025-05-17,20:00:00,Portekiz Premier Lig,2127507,Estoril,Estrela Amadora,4.0,0.0,4.0,0.0,,,185,197.95905814081857
+742,2025-05-18,04:30:00,ABD Major Ligi,2129885,Portland T.,Seattle S.,1.0,1.0,1.0,1.0,,,742,198.3962315670336
+300,2025-05-17,20:00:00,Portekiz Premier Lig,2127504,Porto,N. Madeira,3.0,0.0,3.0,0.0,,,300,198.89200738089002
+136,2025-05-18,21:45:00,İtalya Serie A,2129624,Juventus,Udinese,,,,,,,136,201.21643894075845
+515,2025-05-16,21:00:00,Portekiz Premier Lig,2125768,Rio Ave,Gil Vicente,1.0,1.0,1.0,1.0,,,515,202.47561013613466
+262,2025-05-18,10:30:00,Güney Kore K-Lig 1,2129739,Pohang S.,Gwangju,0.0,0.0,0.0,1.0,,,262,203.8499013980629
+281,2025-05-18,20:00:00,İspanya La Liga,2129788,Valencia,Ath. Bilbao,,,,,,,281,204.21926623117616
+80,2025-05-19,22:00:00,İngiltere Premier Lig,2129465,Brighton,Liverpool,,,,,,,80,208.7866533090657
+141,2025-05-18,19:00:00,Türkiye Süper Lig,2129832,Fenerbahçe,Eyüpspor,,,,,,,141,209.00056172173313
+571,2025-05-19,20:00:00,İsveç Allsvenskan,2131249,Degerfors,Göteborg,,,,,,,571,209.37307706579656
+14,2025-05-17,16:00:00,İsveç Superettan (2.Lig),2127681,Umea,Utsiktens,1.0,3.0,1.0,3.0,,,14,209.6350450187182
+278,2025-05-18,16:30:00,Almanya 2. Bundesliga,2129506,G.Fürth,Hamburg,,,,,,,278,210.28118579654242
+768,2025-05-18,00:30:00,Brezilya Serie A,2126999,Vasco Da Gama,Fortaleza,1.0,0.0,3.0,0.0,,,768,220.49535777426246
+747,2025-05-21,22:00:00,UEFA Avrupa Ligi,2134257,Tottenham,Man. United,,,,,,,747,222.50329233519219
+752,2025-05-17,20:00:00,Portekiz Premier Lig,2127503,Sporting CP,V.Guimaraes,2.0,0.0,2.0,0.0,,,752,223.87366214005604
+370,2025-05-17,22:00:00,Brezilya Serie A,2127000,Ceara,Recife,1.0,0.0,2.0,0.0,,,370,224.4041452380058
+624,2025-05-17,14:30:00,İskoçya Premiership Şamp. Turu,2137512,Dundee Utd.,Aberdeen,2.0,1.0,2.0,1.0,,,624,227.24134328946394
+19,2025-05-18,03:00:00,Brezilya Serie A,2129353,Sao Paulo,Gremio,2.0,1.0,2.0,1.0,,,19,230.74293250281798
+105,2025-05-18,16:15:00,İngiltere Premier Lig,2129469,West Ham,Not. Forest,,,,,,,105,234.11359379583232
+761,2025-05-19,20:30:00,Rusya Premier Ligi,2131241,L. Moskova,CSKA,,,,,,,761,234.70069982852624
+166,2025-05-17,08:00:00,Japonya J. Lig,2127357,S. Hiroshima,Tokyo Verdy,2.0,1.0,2.0,1.0,,,166,235.60017338703292
+776,2025-05-18,20:15:00,Belçika Pro Lig Düş./Yük. P.Off,2169232,Patro Eisden M.,Cercle Brugge,,,,,,,776,235.70976305617882
+524,2025-05-17,17:15:00,İspanya La Liga 2,2129784,Deportivo,Granada,2.0,3.0,2.0,3.0,,,524,236.9337213230738
+434,2025-05-17,22:00:00,Fransa Ligue 1,2129492,PSG,Auxerre,0.0,1.0,3.0,1.0,,,434,236.9658682173448
+718,2025-05-18,03:30:00,ABD Major Ligi,2129884,Austin,Vancouver,0.0,0.0,0.0,0.0,,,718,237.33503934311923
+7,2025-05-17,14:00:00,İsveç Superettan (2.Lig),2127682,Trelleborgs,Vasteraas,5.0,0.0,5.0,0.0,,,7,237.90184404497583
+705,2025-05-18,17:30:00,İsveç Allsvenskan,2129797,Malmö,Halmstads,,,,,,,705,240.57133141752357
+423,2025-05-18,21:45:00,İtalya Serie A,2129622,Fiorentina,Bologna,,,,,,,423,241.20784502167422
+408,2025-05-17,17:15:00,İspanya La Liga 2,2129777,Eibar,Burgos,1.0,0.0,1.0,0.0,,,408,243.38124106019347
+658,2025-05-18,20:00:00,İspanya La Liga,2129796,Las Palmas,Leganes,,,,,,,658,246.46942792159837
+549,2025-05-18,09:00:00,Japonya J. Lig,2129630,Fagiano,Niigata,1.0,1.0,2.0,1.0,,,549,248.58456146752152
+92,2025-05-18,18:00:00,Avusturya Bundesliga Şampiyonluk Turu,2129257,Rapid Wien,Sturm Graz,,,,,,,92,252.01165746845908
+178,2025-05-20,03:30:00,"Arjantin Primera LPF, Playoff",2169873,Boca Juniors,Independiente,,,,,,,178,252.28843354383096
+22,2025-05-17,08:00:00,Japonya J. Lig,2127363,Machida Zelvia,Kashiwa,3.0,0.0,3.0,0.0,,,22,254.12304165502192
+598,2025-05-18,16:30:00,Almanya 2. Bundesliga,2129502,Ulm 1846,Preussen M.,,,,,,,598,258.45033062466763
+344,2025-05-18,19:00:00,Türkiye Süper Lig,2129829,Galatasaray,Kayserispor,,,,,,,344,259.8015250147697
+52,2025-05-17,17:00:00,Finlandiya Veikkausliiga,2127141,Helsinki,KTP,4.0,1.0,4.0,1.0,,,52,261.5051485152825
+162,2025-05-17,20:00:00,Portekiz Premier Lig,2127505,S. Farense,Santa Clara,1.0,2.0,1.0,2.0,,,162,262.15519392146325
+352,2025-05-19,02:30:00,Brezilya Serie A,2129351,Cruzeiro,A.Mineiro,,,,,,,352,264.43675009347686
+293,2025-05-18,19:00:00,Türkiye Süper Lig,2129826,Alanyaspor,Beşiktaş,,,,,,,293,269.3250864661516
+400,2025-05-17,14:00:00,Çin Süper Ligi,2127031,Changchun Y.,Tianjin Teda,1.0,2.0,1.0,2.0,,,400,271.781955802809
+509,2025-05-18,20:00:00,İspanya La Liga,2129791,Sevilla,Real Madrid,,,,,,,509,274.2765325360521
+419,2025-05-17,09:00:00,Japonya J. Lig,2127362,Sh Bellmare,Yokohama,0.0,1.0,0.0,1.0,,,419,274.30048979176104
+338,2025-05-16,19:00:00,Norveç Eliteserien,2125756,Fredrikstad,KFUM Oslo,1.0,0.0,1.0,0.0,,,338,275.7892215080205
+721,2025-05-18,21:45:00,İtalya Serie A,2129625,Verona,Como,,,,,,,721,279.5108001491176
+156,2025-05-20,01:00:00,"Arjantin Primera LPF, Playoff",2169874,Argentinos J.,San Lorenzo,,,,,,,156,280.80866546458276
+261,2025-05-17,08:30:00,Japonya J. Lig,2127360,Fukuoka,Nagoya,1.0,1.0,1.0,1.0,,,261,281.4223818391138
+767,2025-05-18,20:00:00,İspanya La Liga,2129795,Mallorca,Getafe,,,,,,,767,286.24480746382113
+91,2025-05-19,01:00:00,"Arjantin Primera LPF, Playoff",2169906,Rosario C.,Huracan,,,,,,,91,292.30029062592473
+786,2025-05-16,19:00:00,Norveç Eliteserien,2125751,Rosenborg,Haugesund,1.0,0.0,1.0,0.0,,,786,298.6120553494115
+475,2025-05-16,20:00:00,İsveç Superettan (2.Lig),2125799,Falkenbergs,Kalmar,0.0,0.0,0.0,0.0,,,475,299.1699299729169
+318,2025-05-19,04:00:00,ABD Major Ligi,2131260,LA Galaxy,Los Angeles,,,,,,,318,299.8309233551469
+492,2025-05-18,17:00:00,İskoçya Premiership Düşme Turu,2137510,ST Johnstone,Dundee,,,,,,,492,302.9225772371548
+379,2025-05-18,18:00:00,Yunanistan Süper Ligi Düşme Grubu,2129580,Lamia,Panaitolikos,,,,,,,379,305.46285715287877
+703,2025-05-18,19:00:00,Danimarka Süper Lig Şampiyonluk Turu,2129456,Randers,Kopenhag,,,,,,,703,307.913208388338
+137,2025-05-16,20:00:00,Finlandiya Veikkausliiga,2125660,Haka,Kuopion ,0.0,1.0,1.0,3.0,,,137,310.31682374631265
+124,2025-05-17,19:30:00,İspanya La Liga 2,2129785,Huesca,Elche,2.0,1.0,2.0,1.0,,,124,310.65112940403094
+392,2025-05-18,17:30:00,İsveç Allsvenskan,2129798,Osters,Gais,,,,,,,392,318.83464727033675
+404,2025-05-19,00:30:00,Brezilya Serie A,2129350,Bragantino,Palmeiras,,,,,,,404,320.02169004615945
+741,2025-05-18,22:00:00,Brezilya Serie A,2129347,Juventude,Fluminense,,,,,,,741,320.51490012166363
+711,2025-05-18,19:30:00,Belçika Pro Lig Şampiyonluk Turu,2129263,KAA Gent,Genk,,,,,,,711,322.3044040965001
+671,2025-05-17,22:00:00,Fransa Ligue 1,2129494,Lens,Monaco,1.0,0.0,4.0,0.0,,,671,322.63378108933364
+430,2025-05-17,13:00:00,Güney Kore K-Lig 1,2127659,Gangwon,Ulsan Hora,1.0,1.0,1.0,1.0,,,430,325.9779622919316
+529,2025-05-17,19:30:00,İspanya La Liga 2,2129779,Cartagena,Tenerife,1.0,0.0,1.0,0.0,,,529,326.0936212194284
+219,2025-05-17,14:00:00,Rusya Premier Ligi,2127577,Orenburg,Krasnodar,1.0,2.0,1.0,2.0,,,219,335.40817193383947
+725,2025-05-18,16:30:00,Almanya 2. Bundesliga,2129504,Karlsruhe,Paderborn,,,,,,,725,336.5154000933686
+24,2025-05-16,19:00:00,Norveç Eliteserien,2125754,Tromso IL,Bodo Glimt,0.0,1.0,2.0,1.0,,,24,344.4708581288118
+753,2025-05-17,18:30:00,İngiltere Federasyon Kupası,2153102,Cry. Palace,Man. City,1.0,0.0,1.0,0.0,,,753,347.802574889836
+391,2025-05-17,21:45:00,İtalya Serie A,2129618,Genoa,Atalanta,1.0,0.0,2.0,3.0,,,391,353.2566258401957
+482,2025-05-17,21:45:00,Belçika Pro Lig Şampiyonluk Turu,2126962,Antwerp,U.S Gilloise,0.0,3.0,0.0,4.0,,,482,354.611657450795
+604,2025-05-16,21:45:00,İrlanda Premier Lig,2125716,Drogheda,Derry City,1.0,0.0,1.0,1.0,,,604,357.49112254712
+287,2025-05-18,10:30:00,Güney Kore K-Lig 1,2129738,Daegu,Seoul,0.0,0.0,0.0,1.0,,,287,362.0303494183879
+260,2025-05-18,16:30:00,Almanya 2. Bundesliga,2129498,Schalke,Elversberg,,,,,,,260,365.1340206006557
+611,2025-05-18,20:00:00,İspanya La Liga,2129787,R. Valladolid,Alaves,,,,,,,611,370.6604647113041
+719,2025-05-17,20:00:00,Portekiz Premier Lig,2127508,Braga,Benfica,1.0,1.0,1.0,1.0,,,719,376.14176715701217
+279,2025-05-17,16:30:00,Almanya Bundesliga,2127176,Hoffenheim,Bayern Münih,0.0,4.0,0.0,4.0,,,279,382.22404189166326
+217,2025-05-18,19:00:00,Rusya Premier Ligi,2129695,Rostov,Zenit,,,,,,,217,386.5490407438622
+523,2025-05-18,18:00:00,Avusturya Bundesliga Şampiyonluk Turu,2129258,BW Linz,Salzburg,,,,,,,523,395.0682122115117
+763,2025-05-16,21:45:00,İrlanda Premier Lig,2125719,Waterford,Shamrock,1.0,1.0,1.0,3.0,,,763,399.8453753640275
+777,2025-05-17,13:00:00,Çin Süper Ligi,2127027,Dalian Zhixing,S. Shenhua,0.0,3.0,0.0,3.0,,,777,402.1775451215546
+544,2025-05-18,21:45:00,İtalya Serie A,2129617,Parma,Napoli,,,,,,,544,410.3577279642726
+163,2025-05-17,14:35:00,Çin Süper Ligi,2127032,Qingdao Jon.,Beijin Guoan,1.0,1.0,1.0,1.0,,,163,456.97962088040646
+184,2025-05-17,20:00:00,Yunanistan Kupası,2127295,Ofi Crete,Olympiakos,0.0,2.0,0.0,2.0,,,184,470.2386373959503

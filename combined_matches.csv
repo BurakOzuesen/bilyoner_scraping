@@ -1,96 +1,115 @@
 ﻿gün,saat,turnuva,ev,dep,maç_id,marketName,label,fixedOdds,currentOdds
-Bugün,20:15,Parva Ligi,CSKA Sofya,Botev Plovdiv,2144759,Karşılıklı Gol,KG Yok,1.52,1.52
-Bugün,20:15,Parva Ligi,CSKA Sofya,Botev Plovdiv,2144759,"Altı/Üstü 2,5","2,5 Üst",1.51,1.51
-Bugün,20:15,Parva Ligi,CSKA Sofya,Botev Plovdiv,2144759,İlk Yarı Sonucu,İY 1,1.61,1.61
-Bugün,20:15,Parva Ligi,CSKA Sofya,Botev Plovdiv,2144759,Maç Sonucu,MS 1,1.21,1.21
-Bugün,16:00,3.LigYüks,Silivrispor,Mazıdağı Fosfat Spor,2158569,Maç Sonucu,MS 1,1.77,1.77
-Bugün,16:00,3.LigYüks,Silivrispor,Mazıdağı Fosfat Spor,2158569,"Altı/Üstü 2,5","2,5 Alt",1.34,1.35
-Bugün,20:00,3.Lig Yüks,52 Orduspor,K.Çekmece Sinop,2158572,"Altı/Üstü 2,5","2,5 Alt",1.59,1.62
-Bugün,20:00,3.Lig Yüks,52 Orduspor,K.Çekmece Sinop,2158572,Maç Sonucu,MS 1,1.97,1.88
-Bugün,19:30,2. Bundesl,Preussen M.,Hertha Berlin,2118605,Toplam Gol,2-3 Gol,1.87,1.87
-Bugün,19:30,2. Bundesl,Preussen M.,Hertha Berlin,2118605,Maç Sonucu,MS 1,2.11,2.11
-Bugün,19:30,2. Bundesl,Preussen M.,Hertha Berlin,2118605,Karşılıklı Gol,KG Var,1.32,1.32
-Bugün,20:00,LVA,Dziugas,Zalgiris,2119092,Maç Sonucu,MS 2,1.56,1.53
-Bugün,20:00,LVA,Dziugas,Zalgiris,2119092,İlk Yarı Sonucu,İY X,1.92,1.94
-Bugün,20:00,LVA,Dziugas,Zalgiris,2119092,"Altı/Üstü 2,5","2,5 Alt",1.5,1.5
-Bugün,20:30,SWC,Schaffhausen,Std. Nyonnis,2119684,"Altı/Üstü 2,5","2,5 Üst",1.39,1.38
-Bugün,19:30,DAN2,Horsens,Odense,2118422,İlk Yarı Sonucu,İY X,2.06,2.07
-Bugün,19:30,DAN2,Horsens,Odense,2118422,Maç Sonucu,MS 2,1.93,1.94
-Bugün,19:30,DAN2,Horsens,Odense,2118422,Karşılıklı Gol,KG Var,1.39,1.38
-Bugün,19:30,DAN2,Horsens,Odense,2118422,"Altı/Üstü 2,5","2,5 Üst",1.44,1.45
-Bugün,18:00,Ukrayna Premier Lig,Polissya,Dinamo Kiev,2119734,Maç Sonucu,MS 2,1.59,1.61
-Bugün,18:00,Ukrayna Premier Lig,Polissya,Dinamo Kiev,2119734,İlk Yarı Sonucu,İY X,1.87,1.87
-Bugün,17:45,Parva Ligi,Arda Kardzha,Ludogorets,2143651,İlk Yarı Sonucu,İY X,1.84,1.84
-Bugün,17:45,Parva Ligi,Arda Kardzha,Ludogorets,2143651,Maç Sonucu,MS 2,2.0,2.0
-Bugün,17:45,Parva Ligi,Arda Kardzha,Ludogorets,2143651,Karşılıklı Gol,KG Var,1.65,1.65
-Bugün,19:00,AVU2,R. Wien II,Liefering,2118052,İlk Yarı Sonucu,İY X,2.24,2.25
-Bugün,19:00,AVU2,R. Wien II,Liefering,2118052,Maç Sonucu,MS 1,2.08,2.13
-Bugün,19:00,AVU2,R. Wien II,Liefering,2118052,Karşılıklı Gol,KG Var,1.24,1.23
-Bugün,19:00,HNL1,Osijek,L. Zagreb,2118312,Toplam Gol,2-3 Gol,1.8,1.81
-Bugün,20:00,Süper Lig,Gaziantep,Alanyaspor,2119701,Toplam Gol,2-3 Gol,1.84,1.84
-Bugün,20:00,Süper Lig,Gaziantep,Alanyaspor,2119701,Maç Sonucu,MS 1,2.16,2.16
-Bugün,20:30,SWC,Stade Ouchy,Bellinzona,2119686,Toplam Gol,2-3 Gol,1.86,1.86
-Bugün,20:30,SWC,Stade Ouchy,Bellinzona,2119686,Karşılıklı Gol,KG Var,1.34,1.34
-Bugün,15:30,Ukrayna Premier Lig,Zorya Luhansk,Shakhtar D.,2119730,İlk Yarı Sonucu,İY 2,1.54,1.54
-Bugün,15:30,Ukrayna Premier Lig,Zorya Luhansk,Shakhtar D.,2119730,Maç Sonucu,MS 2,1.17,1.17
-Bugün,15:30,Ukrayna Premier Lig,Zorya Luhansk,Shakhtar D.,2119730,Karşılıklı Gol,KG Yok,1.58,1.58
-Bugün,15:30,Ukrayna Premier Lig,Zorya Luhansk,Shakhtar D.,2119730,"Altı/Üstü 2,5","2,5 Üst",1.4,1.4
-Bugün,20:00,DAN2,Roskilde,Hobro IK,2118418,Maç Sonucu,MS 2,1.97,2.0
-Bugün,20:00,DAN2,Roskilde,Hobro IK,2118418,Karşılıklı Gol,KG Var,1.34,1.33
-Bugün,19:00,AVU2,Team für Wien,SV Horn,2118049,İlk Yarı Sonucu,İY X,2.07,2.06
-Bugün,19:00,AVU2,Team für Wien,SV Horn,2118049,Maç Sonucu,MS 1,1.76,1.8
-Bugün,19:00,AVU2,Team für Wien,SV Horn,2118049,"Altı/Üstü 2,5","2,5 Üst",1.46,1.48
-Bugün,20:30,SWC,N. Xamax,Etoile Carouge,2119685,Karşılıklı Gol,KG Var,1.29,1.28
-Bugün,20:30,SWC,N. Xamax,Etoile Carouge,2119685,"Altı/Üstü 2,5","2,5 Üst",1.31,1.3
-Bugün,20:30,SWC,N. Xamax,Etoile Carouge,2119685,İlk Yarı Sonucu,İY X,2.19,2.2
-Bugün,20:30,SWC,N. Xamax,Etoile Carouge,2119685,Maç Sonucu,MS 2,1.83,1.82
-Bugün,21:00,1. Lig,Jong PSV,Jong Utrecht,2118857,Maç Sonucu,MS 1,1.43,1.46
-Bugün,21:00,1. Lig,Jong PSV,Jong Utrecht,2118857,Karşılıklı Gol,KG Var,1.24,1.23
-Bugün,21:00,1. Lig,Jong PSV,Jong Utrecht,2118857,İlk Yarı Sonucu,İY 1,1.83,1.86
-Bugün,19:30,DAN2,Fredericia,Hvidovre,2118423,Maç Sonucu,MS 1,1.55,1.55
-Bugün,19:30,DAN2,Fredericia,Hvidovre,2118423,İlk Yarı Sonucu,İY 1,2.02,2.02
-Bugün,19:30,DAN2,Fredericia,Hvidovre,2118423,Karşılıklı Gol,KG Var,1.49,1.5
-Bugün,19:30,DAN2,Fredericia,Hvidovre,2118423,"Altı/Üstü 2,5","2,5 Üst",1.51,1.53
-Bugün,19:30,DAN2,Fredericia,Hvidovre,2118423,Toplam Gol,2-3 Gol,1.8,1.79
-Bugün,19:30,2. Bundesl,Nürnberg,Köln,2118607,"Altı/Üstü 2,5","2,5 Üst",1.32,1.32
-Bugün,20:00,Süper Lig,Başakşehir,Fenerbahçe,2119699,İlk Yarı Sonucu,İY 2,2.09,2.09
-Bugün,20:00,Süper Lig,Başakşehir,Fenerbahçe,2119699,Maç Sonucu,MS 2,1.62,1.62
-Bugün,19:31,FİN1,Tampereen,Haka,2118496,Karşılıklı Gol,KG Var,1.49,1.48
-Bugün,19:31,FİN1,Tampereen,Haka,2118496,İlk Yarı Sonucu,İY 1,1.83,1.86
-Bugün,19:31,FİN1,Tampereen,Haka,2118496,Maç Sonucu,MS 1,1.39,1.41
-Bugün,19:31,FİN1,Tampereen,Haka,2118496,"Altı/Üstü 2,5","2,5 Üst",1.4,1.4
-Bugün,20:00,3. Lig,B. Dortmund II,Stuttgart II,2118588,Toplam Gol,2-3 Gol,1.94,1.92
-Bugün,20:00,3. Lig,B. Dortmund II,Stuttgart II,2118588,İlk Yarı Sonucu,İY X,2.13,2.12
-Bugün,20:00,3. Lig,B. Dortmund II,Stuttgart II,2118588,"Altı/Üstü 2,5","2,5 Üst",1.47,1.49
-Bugün,19:30,LVA,Zalgiris V.,Riteriai,2119090,Karşılıklı Gol,KG Yok,1.6,1.63
-Bugün,19:30,LVA,Zalgiris V.,Riteriai,2119090,Maç Sonucu,MS 1,1.36,1.38
-Bugün,19:30,LVA,Zalgiris V.,Riteriai,2119090,"Altı/Üstü 2,5","2,5 Üst",1.61,1.59
-Bugün,18:00,Premier Li,Sabah,Keshla FK,1910137,İlk Yarı Sonucu,İY X,1.89,1.91
-Bugün,18:00,Premier Li,Sabah,Keshla FK,1910137,Karşılıklı Gol,KG Yok,1.6,1.62
-Bugün,18:00,Premier Li,Sabah,Keshla FK,1910137,Maç Sonucu,MS 1,1.64,1.64
-Bugün,21:00,ROM1,Sepsi,Botosani,2119381,Karşılıklı Gol,KG Var,1.56,1.57
-Bugün,21:00,ROM1,Sepsi,Botosani,2119381,Toplam Gol,2-3 Gol,1.74,1.74
-Bugün,21:00,ROM1,Sepsi,Botosani,2119381,İlk Yarı Sonucu,İY X,1.9,1.88
-Bugün,21:00,ROM1,Sepsi,Botosani,2119381,"Altı/Üstü 2,5","2,5 Alt",1.58,1.57
-Bugün,21:00,ROM1,Sepsi,Botosani,2119381,Maç Sonucu,MS 1,2.05,2.05
-Bugün,19:00,LET1,Rigas Skola,Daugavpils,2119078,Maç Sonucu,MS 1,1.0,1.0
-Bugün,19:00,LET1,Rigas Skola,Daugavpils,2119078,Karşılıklı Gol,KG Yok,1.37,1.4
-Bugün,19:00,AVU2,Aus Lustenau,First Vienna,2118054,Toplam Gol,2-3 Gol,1.87,1.86
-Bugün,19:00,AVU2,Aus Lustenau,First Vienna,2118054,İlk Yarı Sonucu,İY X,2.09,2.1
-Bugün,21:00,Macaristan 1. Ligi,ETO Gyor,Fehervar,2118878,Toplam Gol,2-3 Gol,1.8,1.8
-Bugün,21:00,Macaristan 1. Ligi,ETO Gyor,Fehervar,2118878,"Altı/Üstü 2,5","2,5 Üst",1.5,1.49
-Bugün,21:00,Macaristan 1. Ligi,ETO Gyor,Fehervar,2118878,Karşılıklı Gol,KG Var,1.47,1.48
-Bugün,19:00,AVU2,St. Polten,Schwarz Weiss Bregen,2118053,Toplam Gol,2-3 Gol,2.13,2.13
-Bugün,19:00,AVU2,St. Polten,Schwarz Weiss Bregen,2118053,İlk Yarı Sonucu,İY 1,1.43,1.42
-Bugün,19:00,AVU2,St. Polten,Schwarz Weiss Bregen,2118053,Karşılıklı Gol,KG Var,1.4,1.42
-Bugün,19:00,AVU2,St. Polten,Schwarz Weiss Bregen,2118053,Maç Sonucu,MS 1,1.12,1.11
-Bugün,21:00,1. Lig,Vitesse,Den Bosch,2118849,Maç Sonucu,MS 1,1.72,1.68
-Bugün,18:30,BAEBK,Sharjah,Al Ahli,2140851,Karşılıklı Gol,KG Var,1.58,1.6
-Bugün,18:30,BAEBK,Sharjah,Al Ahli,2140851,Maç Sonucu,MS 2,2.19,2.22
-Bugün,19:00,Ekstraklas,Motor Lublin,Piast Gliwice,2119288,"Altı/Üstü 2,5","2,5 Alt",1.45,1.47
-Bugün,19:00,Ekstraklas,Motor Lublin,Piast Gliwice,2119288,Maç Sonucu,MS 1,2.2,2.16
-Bugün,21:00,Eredivisie,Willem II,Heracles,2118846,İlk Yarı Sonucu,İY X,1.88,1.89
-Bugün,21:00,Eredivisie,Willem II,Heracles,2118846,Toplam Gol,2-3 Gol,1.8,1.8
-Bugün,21:00,Eredivisie,Willem II,Heracles,2118846,Maç Sonucu,MS 2,2.24,2.3
-Bugün,18:00,ROM1,SCM Gloria Buzau,U. Slobozia,2119382,İlk Yarı Sonucu,İY 2,1.5,1.51
-Bugün,18:00,ROM1,SCM Gloria Buzau,U. Slobozia,2119382,Toplam Gol,2-3 Gol,1.78,1.79
+Bugün,19:00,NOR1,Aalesunds,Hodd IL,2125759,Maç Sonucu,MS 1,1.18,1.2
+Bugün,19:00,AVU2,Sturm Gr.(A),SV Lafnitz,2125593,Karşılıklı Gol,KG Var,1.23,1.22
+Bugün,19:00,NOR1,IK Start,Egersunds,2125760,"Altı/Üstü 2,5","2,5 Üst",1.44,1.44
+Bugün,15:00,ÇİN,Yunnan Yukun,Meizhou Hakka,2125627,İlk Yarı Sonucu,İY 1,1.6,1.59
+Bugün,20:00,DAN2,HB Koege,B93 Kopenhag,2127119,"Altı/Üstü 2,5","2,5 Üst",1.4,1.4
+Bugün,19:00,NOR,Fredrikstad,KFUM Oslo,2125756,Maç Sonucu,MS 1,1.78,1.74
+Bugün,19:00,AVU2,First Vienna,Amstetten,2125596,Karşılıklı Gol,KG Var,1.37,1.37
+Bugün,19:40,Suudi Prof,AL Orouba SC,AL Khaleej,2123390,Karşılıklı Gol,KG Var,1.36,1.37
+Bugün,20:00,LVA,Dfk Dainava ,Suduva,2125744,İlk Yarı Sonucu,İY X,1.8,1.81
+Bugün,19:00,NOR,Fredrikstad,KFUM Oslo,2125756,Karşılıklı Gol,KG Yok,1.37,1.36
+Bugün,19:00,AVU2,First Vienna,Amstetten,2125596,"Altı/Üstü 2,5","2,5 Üst",1.44,1.44
+Bugün,15:00,ÇİN,Yunnan Yukun,Meizhou Hakka,2125627,"Altı/Üstü 2,5","2,5 Üst",1.26,1.25
+Bugün,19:00,Ekstraklas,Stal Mielec,Radomiak R.,2127490,"Altı/Üstü 2,5","2,5 Üst",1.59,1.59
+Bugün,19:40,Suudi Prof,AL Orouba SC,AL Khaleej,2123390,Toplam Gol,2-3 Gol,1.84,1.84
+Bugün,19:00,AVU2,SV Horn,Kapfenberg,2125592,Maç Sonucu,MS 2,2.08,2.03
+Bugün,19:00,NOR1,Stabaek,Mjondalen,2125762,"Altı/Üstü 2,5","2,5 Üst",1.29,1.29
+Bugün,20:00,DAN2,Roskilde,Hilleroed,2127120,Maç Sonucu,MS 2,1.65,1.69
+Bugün,20:00,DAN2,HB Koege,B93 Kopenhag,2127119,Karşılıklı Gol,KG Var,1.36,1.36
+Bugün,20:00,LVA,Dfk Dainava ,Suduva,2125744,Maç Sonucu,MS 2,1.62,1.59
+Bugün,19:15,Macaristan 1. Ligi,Kecskemeti TE,Puskas Akad.,2127318,Maç Sonucu,MS 2,1.19,1.2
+Bugün,12:35,A-Ligi,Western U.,Mel. City,2167654,İlk Yarı Sonucu,İY X,2.08,2.09
+Bugün,20:00,LVA,Dfk Dainava ,Suduva,2125744,Karşılıklı Gol,KG Yok,1.46,1.45
+Bugün,18:00,ROM1,Otelul Galati,Farul Cons.,2127560,"Altı/Üstü 2,5","2,5 Üst",1.62,1.64
+Bugün,12:35,A-Ligi,Western U.,Mel. City,2167654,Toplam Gol,2-3 Gol,1.82,1.83
+Bugün,19:00,AVU2,SV Stripfing,Aus Lustenau,2125590,Karşılıklı Gol,KG Var,1.5,1.5
+Bugün,19:00,NOR,Rosenborg,Haugesund,2125751,"Altı/Üstü 2,5","2,5 Üst",1.2,1.19
+Bugün,18:00,ROM1,Otelul Galati,Farul Cons.,2127560,"Altı/Üstü 1,5","1,5 Üst",1.12,1.13
+Bugün,19:00,NOR1,Odds BK,Moss,2125765,Maç Sonucu,MS 1,1.47,1.44
+Bugün,18:00,ROM1,Otelul Galati,Farul Cons.,2127560,İlk Yarı Sonucu,İY X,1.94,1.94
+Bugün,19:00,NOR,Viking,Sandefjord,2125750,Karşılıklı Gol,KG Var,1.33,1.34
+Bugün,12:35,A-Ligi,Western U.,Mel. City,2167654,Maç Sonucu,MS 2,1.93,1.98
+Bugün,15:00,ÇİN,Yunnan Yukun,Meizhou Hakka,2125627,"Altı/Üstü 3,5","3,5 Alt",1.51,1.53
+Bugün,17:00,BRUS1,Smorgon,S. Mozyr,2125623,Karşılıklı Gol,KG Yok,1.48,1.45
+Bugün,19:00,NOR,Molde,Kristiansund,2125753,Toplam Gol,2-3 Gol,2.02,2.02
+Bugün,19:00,NOR1,Sogndal,Asane,2125761,Karşılıklı Gol,KG Var,1.38,1.37
+Bugün,20:00,DAN2,Vendsyssel,Hobro IK,2127121,"Altı/Üstü 2,5","2,5 Üst",1.52,1.5
+Bugün,19:00,LET1,SK Super Nova,FK Tukums 2000/Tss,2125742,"Altı/Üstü 2,5","2,5 Üst",1.58,1.58
+Bugün,19:00,LET1,SK Super Nova,FK Tukums 2000/Tss,2125742,İlk Yarı Sonucu,İY X,2.0,2.0
+Bugün,20:00,DAN2,HB Koege,B93 Kopenhag,2127119,İlk Yarı Sonucu,İY X,2.13,2.12
+Bugün,19:00,NOR1,Odds BK,Moss,2125765,İlk Yarı Sonucu,İY 1,1.9,1.87
+Bugün,19:00,BRUS1,Torp. Zhodino,Neman Grodno,2125621,İlk Yarı Sonucu,İY X,1.55,1.56
+Bugün,20:00,DAN2,Roskilde,Hilleroed,2127120,İlk Yarı Sonucu,İY 2,2.11,2.15
+Bugün,19:00,NOR,Molde,Kristiansund,2125753,Maç Sonucu,MS 1,1.26,1.28
+Bugün,19:00,AVU2,ASK Voitsberg,Team für Wien,2125594,Maç Sonucu,MS 1,1.62,1.62
+Bugün,19:00,NOR,Brann,Sarpsborg,2125755,Maç Sonucu,MS 1,1.5,1.52
+Bugün,19:00,NOR1,Sogndal,Asane,2125761,"Altı/Üstü 2,5","2,5 Üst",1.45,1.43
+Bugün,18:00,FİN1,Gnistan,Seinöjoen,2125661,Maç Sonucu,MS 2,2.26,2.22
+Bugün,19:15,Macaristan 1. Ligi,Kecskemeti TE,Puskas Akad.,2127318,"Altı/Üstü 2,5","2,5 Üst",1.37,1.37
+Bugün,19:00,AVU2,SV Stripfing,Aus Lustenau,2125590,Toplam Gol,2-3 Gol,1.75,1.75
+Bugün,20:00,DAN2,Vendsyssel,Hobro IK,2127121,Maç Sonucu,MS 1,1.61,1.58
+Bugün,19:00,LET1,SK Super Nova,FK Tukums 2000/Tss,2125742,Maç Sonucu,MS 1,1.66,1.66
+Bugün,19:00,LET1,SK Super Nova,FK Tukums 2000/Tss,2125742,Karşılıklı Gol,KG Var,1.52,1.52
+Bugün,19:00,NOR,Viking,Sandefjord,2125750,Maç Sonucu,MS 1,1.43,1.47
+Bugün,14:35,ÇİN,Zhejiang,Henan Jianye,2125626,Karşılıklı Gol,KG Var,1.38,1.39
+Bugün,19:00,NOR1,IK Start,Egersunds,2125760,Toplam Gol,2-3 Gol,1.83,1.83
+Bugün,15:00,ÇİN,Yunnan Yukun,Meizhou Hakka,2125627,Karşılıklı Gol,KG Var,1.43,1.42
+Bugün,19:00,NOR,Fredrikstad,KFUM Oslo,2125756,"Altı/Üstü 2,5","2,5 Alt",1.27,1.26
+Bugün,19:00,HNL1,Istra 61,Sibenik,2127050,Toplam Gol,2-3 Gol,1.73,1.73
+Bugün,19:00,NOR,Stromsgodset,Bryne,2125752,"Altı/Üstü 2,5","2,5 Üst",1.49,1.47
+Bugün,17:00,BRUS1,Smorgon,S. Mozyr,2125623,İlk Yarı Sonucu,İY X,1.9,1.88
+Bugün,19:00,NOR1,Lyn Toppo.,Skeid,2125763,"Altı/Üstü 2,5","2,5 Alt",1.58,1.58
+Bugün,19:00,NOR,Stromsgodset,Bryne,2125752,Karşılıklı Gol,KG Var,1.5,1.48
+Bugün,18:55,Suudi Prof,Al Fateh,Al Hilal,2123386,İlk Yarı Sonucu,İY 2,1.67,1.67
+Bugün,19:00,AVU2,Sturm Gr.(A),SV Lafnitz,2125593,"Altı/Üstü 2,5","2,5 Üst",1.19,1.18
+Bugün,19:00,NOR,Tromso IL,Bodo Glimt,2125754,Maç Sonucu,MS 2,1.53,1.56
+Bugün,19:00,NOR1,IK Start,Egersunds,2125760,Karşılıklı Gol,KG Var,1.37,1.36
+Bugün,19:00,NOR,Viking,Sandefjord,2125750,"Altı/Üstü 3,5","3,5 Alt",1.57,1.55
+Bugün,19:00,AVU2,St. Polten,R. Wien II,2125591,İlk Yarı Sonucu,İY 1,1.55,1.56
+Bugün,19:00,Ekstraklas,Stal Mielec,Radomiak R.,2127490,Maç Sonucu,MS 1,2.16,2.16
+Bugün,19:15,Macaristan 1. Ligi,Kecskemeti TE,Puskas Akad.,2127318,İlk Yarı Sonucu,İY 2,1.55,1.57
+Bugün,18:00,ROM1,Otelul Galati,Farul Cons.,2127560,Karşılıklı Gol,KG Var,1.53,1.52
+Bugün,19:00,NOR1,Lyn Toppo.,Skeid,2125763,Toplam Gol,2-3 Gol,1.75,1.74
+Bugün,19:00,NOR1,Stabaek,Mjondalen,2125762,Maç Sonucu,MS 1,1.18,1.19
+Bugün,20:00,Süper Lig,Nordsjælland,Aarhus,2125640,Maç Sonucu,MS 1,1.76,1.76
+Bugün,19:00,NOR,Stromsgodset,Bryne,2125752,Toplam Gol,2-3 Gol,1.91,1.92
+Bugün,12:35,A-Ligi,Western U.,Mel. City,2167654,Karşılıklı Gol,KG Var,1.45,1.43
+Bugün,19:00,AVU2,St. Polten,R. Wien II,2125591,Karşılıklı Gol,KG Var,1.23,1.22
+Bugün,20:00,DAN2,Vendsyssel,Hobro IK,2127121,İlk Yarı Sonucu,İY 1,2.07,2.06
+Bugün,19:00,AVU2,SV Stripfing,Aus Lustenau,2125590,İlk Yarı Sonucu,İY X,1.92,1.92
+Bugün,12:35,A-Ligi,Western U.,Mel. City,2167654,"Altı/Üstü 2,5","2,5 Üst",1.56,1.53
+Bugün,19:00,AVU2,ASK Voitsberg,Team für Wien,2125594,Toplam Gol,2-3 Gol,1.8,1.8
+Bugün,19:00,AVU2,Sturm Gr.(A),SV Lafnitz,2125593,Maç Sonucu,MS 1,1.53,1.49
+Bugün,20:00,LVA,Dfk Dainava ,Suduva,2125744,"Altı/Üstü 2,5","2,5 Alt",1.41,1.38
+Bugün,19:15,Macaristan 1. Ligi,Kecskemeti TE,Puskas Akad.,2127318,Toplam Gol,2-3 Gol,1.82,1.82
+Bugün,19:00,NOR,Viking,Sandefjord,2125750,"Altı/Üstü 2,5","2,5 Üst",1.28,1.28
+Bugün,19:00,NOR1,Aalesunds,Hodd IL,2125759,İlk Yarı Sonucu,İY 1,1.57,1.58
+Bugün,19:00,NOR1,IK Start,Egersunds,2125760,Maç Sonucu,MS 1,2.01,2.05
+Bugün,19:00,AVU2,SV Horn,Kapfenberg,2125592,İlk Yarı Sonucu,İY X,2.18,2.19
+Bugün,19:00,AVU2,First Vienna,Amstetten,2125596,Maç Sonucu,MS 1,1.99,1.99
+Bugün,14:35,ÇİN,Zhejiang,Henan Jianye,2125626,İlk Yarı Sonucu,İY X,2.08,2.07
+Bugün,19:00,NOR,Brann,Sarpsborg,2125755,"Altı/Üstü 2,5","2,5 Üst",1.38,1.37
+Bugün,19:00,NOR1,Lillestrom,Kongsvinger,2125764,"Altı/Üstü 2,5","2,5 Üst",1.41,1.4
+Bugün,19:00,AVU2,SV Horn,Kapfenberg,2125592,Karşılıklı Gol,KG Var,1.28,1.27
+Bugün,19:00,NOR1,Lillestrom,Kongsvinger,2125764,Maç Sonucu,MS 1,1.59,1.56
+Bugün,19:00,NOR,Molde,Kristiansund,2125753,İlk Yarı Sonucu,İY 1,1.65,1.67
+Bugün,19:00,NOR,Fredrikstad,KFUM Oslo,2125756,İlk Yarı Sonucu,İY X,1.71,1.72
+Bugün,18:00,FİN1,Gnistan,Seinöjoen,2125661,Toplam Gol,2-3 Gol,1.94,1.94
+Bugün,20:00,DAN2,HB Koege,B93 Kopenhag,2127119,Maç Sonucu,MS 1,1.74,1.74
+Bugün,18:00,ROM1,Otelul Galati,Farul Cons.,2127560,Toplam Gol,2-3 Gol,1.77,1.76
+Bugün,19:00,NOR,Viking,Sandefjord,2125750,İlk Yarı Sonucu,İY 1,1.87,1.88
+Bugün,14:35,ÇİN,Zhejiang,Henan Jianye,2125626,Maç Sonucu,MS 1,1.84,1.88
+Bugün,19:00,NOR,Brann,Sarpsborg,2125755,Karşılıklı Gol,KG Var,1.41,1.4
+Bugün,17:00,BRUS1,Smorgon,S. Mozyr,2125623,Maç Sonucu,MS 2,1.44,1.49
+Bugün,19:00,NOR,Rosenborg,Haugesund,2125751,İlk Yarı Sonucu,İY 1,1.29,1.28
+Bugün,19:00,NOR,Stromsgodset,Bryne,2125752,Maç Sonucu,MS 1,1.52,1.55
+Bugün,19:00,NOR,Rosenborg,Haugesund,2125751,Maç Sonucu,MS 1,1.0,1.0
+Bugün,14:35,ÇİN,Zhejiang,Henan Jianye,2125626,"Altı/Üstü 2,5","2,5 Üst",1.44,1.45
+Bugün,19:00,NOR,Brann,Sarpsborg,2125755,İlk Yarı Sonucu,İY 1,1.97,1.96
+Bugün,19:00,BRUS1,Torp. Zhodino,Neman Grodno,2125621,"Altı/Üstü 2,5","2,5 Alt",1.13,1.14
+Bugün,19:00,AVU2,SV Horn,Kapfenberg,2125592,Toplam Gol,2-3 Gol,1.94,1.95
+Bugün,19:40,Suudi Prof,AL Orouba SC,AL Khaleej,2123390,Maç Sonucu,MS 1,1.72,1.76
+Bugün,19:00,BRUS1,Torp. Zhodino,Neman Grodno,2125621,Maç Sonucu,MS 1,1.99,1.94
+Bugün,14:35,ÇİN,Zhejiang,Henan Jianye,2125626,Toplam Gol,2-3 Gol,1.83,1.82
+Bugün,18:55,Suudi Prof,Al Fateh,Al Hilal,2123386,Maç Sonucu,MS 2,1.31,1.31

@@ -1,0 +1,6 @@
+https://www.bilyoner.com/api/mobile/match-card/event/2118268/detail #bitmiş maçın iy maç sonucu skorları var
+https://www.bilyoner.com/api/mobile/match-card/v2/2118268/status?sgSportTypeId=1 # maç skorları best
+
+https://www.bilyoner.com/api/v3/mobile/aggregator/gamelist/all/v1 # bütün maçlar
+https://www.bilyoner.com/api/v3/mobile/aggregator/match-card/{match_id}/odds?isLiveEvent=true&isPopular=false # bütün oranlar
+
