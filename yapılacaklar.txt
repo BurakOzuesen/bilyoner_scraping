@@ -1,0 +1,6 @@
+skorları hepsini silip tekrar kaydet
+oranlarda ms oranları olmayanları sil, canlıdan gelmiş olabilirler
+insert çok yavaş çalışıyor en iyi yöntemi bulsun
+fazlalık sütunları tespit et
+fazlalık sütunlarda oran değeri olan maçların oranlarını sil (?)
+fazlalık sütunları sil (?)
