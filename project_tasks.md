@@ -1,16 +1,17 @@
 # 🎯 Bilyoner Value Bet Projesi - Task Listesi
 
 Bu dosya, oran tahmini projesinde yapılacak tüm işleri kategorize ederek takip etmek için hazırlanmıştır.
+## ✅ A. VERİ TEMİZLİĞİ & HAZIRLIK (1/5 tamamlandı)
 
 ---
 
 ## ✅ A. VERİ TEMİZLİĞİ & HAZIRLIK
 
-- [✅] **A1: Tüm skorları sil ve yeniden kaydet**  
+- [X] **A1: Tüm skorları sil ve yeniden kaydet**  
   _Açıklama_: Eski skorlar güvenilmez olabilir. Tüm skor verileri silinip güncel maç ID’leriyle yeniden çekilecek ve dosyaya/DB'ye kaydedilecek.  
   ✨ Hedef fonksiyon: `refresh_scores()`
 
-- [ ] **A2: MS oranı olmayan maçları sil**  
+- [X] **A2: MS oranı olmayan maçları sil**  
   _Açıklama_: MS oranı olmayan maçlar eksik veri içeriyor olabilir. Bunlar canlıdan gelen incomplete veriler olabilir.  
   ✨ Hedef fonksiyon: `filter_missing_ms()`
 
