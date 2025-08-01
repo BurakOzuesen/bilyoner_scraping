@@ -6,7 +6,7 @@ Bu dosya, oran tahmini projesinde yapılacak tüm işleri kategorize ederek taki
 
 ## ✅ A. VERİ TEMİZLİĞİ & HAZIRLIK
 
-- [ ] **A1: Tüm skorları sil ve yeniden kaydet**  
+- [✅] **A1: Tüm skorları sil ve yeniden kaydet**  
   _Açıklama_: Eski skorlar güvenilmez olabilir. Tüm skor verileri silinip güncel maç ID’leriyle yeniden çekilecek ve dosyaya/DB'ye kaydedilecek.  
   ✨ Hedef fonksiyon: `refresh_scores()`
 
