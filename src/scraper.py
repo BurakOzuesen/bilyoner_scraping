@@ -1,104 +1,157 @@
 import pandas as pd
-import os
-from datetime import datetime
-import time
 import requests
-from tqdm import tqdm  # ilerleme göstergesi için
+import os
+import math
+from datetime import datetime
+from tqdm import tqdm
 
-def get_score_by_code(match_id):
+import warnings
+warnings.filterwarnings("ignore")
+
+CSV_PATH = "data/processed/match_odds_cleaned_20250801.csv"
+KEY_COLS = ["match_date", "match_time", "tournament", "match_id", "homeTeam", "awayTeam",
+            "firstHalfHomeGoal", "firstHalfAwayGoal", "totalHomeGoal", "totalAwayGoal",
+            "homeCorner", "awayCorner"]
+
+headers = {"User-Agent": "Mozilla/5.0"}
+
+def get_match_ids():
     """
-    Bilyoner API'den verilen maç kodu ile skor bilgisini çeker.
+    Günlük maç bülteninden match_id listesi döner.
     """
+    url = "https://www.bilyoner.com/api/v3/mobile/aggregator/gamelist/all/v1"
+    params = {"tabType": 1, "bulletinType": 2, "liveEventsEnabledForPreBulletin": "true"}
+
+    resp = requests.get(url, params=params, headers=headers)
+    resp.raise_for_status()
+    data = resp.json()
+    match_ids = list(data.get("events", {}).keys())
+    return match_ids
+
+def fetch_match_odds(match_id, is_live=True, is_popular=False):
+    """
+    Tek maç için tüm geçerli oranları ve temel bilgileri döner.
+    """
+    info_url = f"https://www.bilyoner.com/api/v3/mobile/aggregator/gamelist/events/{match_id}"
+    odds_url = f"https://www.bilyoner.com/api/v3/mobile/aggregator/match-card/{match_id}/odds"
+    params = {"isLiveEvent": str(is_live).lower(), "isPopular": str(is_popular).lower()}
+
     try:
-        url = f"https://www.bilyoner.com/api/mobile/match-card/v2/{match_id}/status?sgSportTypeId=1"
+        info = requests.get(info_url, headers=headers).json()
+        odds = requests.get(odds_url, params=params, headers=headers).json()
+    except:
+        return None
 
-        headers = {
-            "User-Agent": (
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/115.0.0.0 Safari/537.36"
-            ),
-            "Accept": "application/json",
-        }
+    rows = []
+    for item in odds.get("oddGroupTabs", []):
+        if item["title"] != "Tümü":
+            continue
+        for market in item.get("matchCardOdds", []):
+            mkt_name = market.get("name", "")
+            if any(ex in mkt_name.lower() for ex in ["oyuncu", "kart", "korner", "penaltı", "özel", "dakikalar", "nasıl", "aralığ"]):
+                continue
+            for odd in market.get("oddList", []):
+                name = odd.get("n")
+                value = odd.get("val")
+                if name is None or value is None:
+                    continue
+                colname = f"{mkt_name} :: {name}"
+                rows.append((colname, value))
 
-        response = requests.get(url, headers=headers, timeout=5)
-        response.raise_for_status()
-        data = response.json()
+    if not rows:
+        return None
 
-        # Varsayılan None değerleri
-        fh_home = fh_away = ft_home = ft_away = None
+    row_dict = {k: v for k, v in rows}
+    row_dict.update({
+        "match_date": info.get("esd", "").split("T")[0],
+        "match_time": info.get("esd", "").split("T")[1] if "T" in info.get("esd", "") else None,
+        "tournament": info.get("lgn"),
+        "match_id": match_id,
+        "homeTeam": odds.get("homeTeam"),
+        "awayTeam": odds.get("awayTeam"),
+        "firstHalfHomeGoal": None,
+        "firstHalfAwayGoal": None,
+        "totalHomeGoal": None,
+        "totalAwayGoal": None,
+        "homeCorner": None,
+        "awayCorner": None
+    })
 
-        for score_entry in data.get("score", []):
-            if score_entry.get("scoreName") == "SOCCER_FIRST_HALF":
-                fh_home = int(score_entry.get("homeScore", "0"))
-                fh_away = int(score_entry.get("awayScore", "0"))
-            elif score_entry.get("scoreName") == "SOCCER_END_SCORE":
-                ft_home = int(score_entry.get("homeScore", "0"))
-                ft_away = int(score_entry.get("awayScore", "0"))
+    return pd.DataFrame([row_dict])
 
-        return {
-            "firstHalfHomeGoal": fh_home,
-            "firstHalfAwayGoal": fh_away,
-            "totalHomeGoal": ft_home,
-            "totalAwayGoal": ft_away
-        }
-
-    except Exception as e:
-        log_msg = f"[HATA] Kod {match_id} için skor alınamadı: {e}"
-        print(log_msg)
-        with open("logs/score_errors.txt", "a") as f:
-            f.write(log_msg + "\n")
-        return {
-            "firstHalfHomeGoal": None,
-            "firstHalfAwayGoal": None,
-            "totalHomeGoal": None,
-            "totalAwayGoal": None
-        }
-
-def refresh_scores(input_path="data/processed/match_odds_wide.csv",
-                   output_dir="data/processed/",
-                   id_column="match_id",
-                   sleep_time=0.3):
+def append_matches_to_csv(match_ids, csv_path=CSV_PATH):
     """
-    Skorları siler ve her maç için yeniden getirir.
-    Güncellenmiş dosya tarihli olarak kayıt edilir.
+    Yeni match_id'leri çekip CSV’ye ekler. 
+    Eğer match_id zaten varsa tekrar eklenmez.
     """
-    os.makedirs("logs", exist_ok=True)
+    if os.path.exists(csv_path):
+        master_df = pd.read_csv(csv_path, dtype={"match_id": str})
+    else:
+        master_df = pd.DataFrame(columns=KEY_COLS)
 
-    if not os.path.exists(input_path):
-        raise FileNotFoundError(f"Giriş dosyası bulunamadı: {input_path}")
-    
-    df = pd.read_csv(input_path)
-    print(f"📥 Veri yüklendi: {len(df)} maç")
+    existing_ids = set(master_df["match_id"].astype(str)) if not master_df.empty else set()
 
-    # Skorları temizle
-    score_columns = [
-        "firstHalfHomeGoal", "firstHalfAwayGoal",
-        "totalHomeGoal", "totalAwayGoal"
-    ]
-    df_clean = df.drop(columns=score_columns, errors="ignore")
+    new_rows = []
 
-    # Skorları çek
-    scores = []
-    print("🔄 Skorlar çekiliyor...")
-    for i, code in enumerate(tqdm(df_clean[id_column], desc="Maç işleniyor", unit="maç")):
-        score = get_score_by_code(code)
-        scores.append(score)
-        # time.sleep(sleep_time)
+    for mid in tqdm(match_ids):
+        mid = str(mid)
 
-    # Skorları ekle
-    scores_df = pd.DataFrame(scores)
-    df_final = pd.concat([df_clean.reset_index(drop=True), scores_df], axis=1)
+        # Eğer zaten varsa atla
+        if mid in existing_ids:
+            continue
 
-    # Kaydet
-    today = datetime.today().strftime("%Y%m%d")
-    output_file = os.path.join(output_dir, f"match_odds_wide_{today}.csv")
-    df_final.to_csv(output_file, index=False)
+        df = fetch_match_odds(mid)
+        if df is None:
+            continue
 
-    print(f"\n✅ Skorlar güncellendi: {output_file}")
-    print(f"📊 Güncellenen maç sayısı: {len(df_final)}")
-    print(f"🕒 Snapshot zamanı: {today}")
-    print(f"📝 Hatalar için: logs/score_errors.txt")
+        # Kolon tamamlama
+        for col in df.columns:
+            if col not in master_df.columns:
+                master_df[col] = pd.NA
+        for col in master_df.columns:
+            if col not in df.columns:
+                df[col] = pd.NA
+
+        new_rows.append(df)
+
+    if new_rows:
+        # Yeni maçları ekle
+        new_data = pd.concat(new_rows, ignore_index=True)
+        master_df = pd.concat([master_df, new_data], ignore_index=True)
+
+        # Kolon sıralama
+        other_cols = [c for c in master_df.columns if c not in KEY_COLS]
+        master_df = master_df[KEY_COLS + sorted(other_cols)]
+
+        master_df.to_csv(csv_path, index=False)
+        print(f"\n✅ {len(new_rows)} yeni maç eklendi → {csv_path}")
+    else:
+        print("\nℹ️ Eklenebilecek yeni maç bulunamadı.")
+
+def update_scores_in_csv(csv_path=CSV_PATH):
+    """
+    CSV'deki eksik skorları Bilyoner'den çekerek doldurur.
+    """
+    df = pd.read_csv(csv_path)
+    for idx, row in tqdm(df.iterrows(), total=len(df)):
+        if pd.isna(row["firstHalfHomeGoal"]) and pd.isna(row["firstHalfAwayGoal"]):
+            match_id = row["match_id"]
+            score_url = f"https://www.bilyoner.com/api/mobile/match-card/v2/{match_id}/status?sgSportTypeId=1"
+
+            try:
+                data = requests.get(score_url, headers=headers, timeout=10).json()
+                scores = {s["scoreName"]: s for s in data.get("score", [])}
+                df.at[idx, "firstHalfHomeGoal"] = int(scores["SOCCER_FIRST_HALF"]["homeScore"])
+                df.at[idx, "firstHalfAwayGoal"] = int(scores["SOCCER_FIRST_HALF"]["awayScore"])
+                df.at[idx, "totalHomeGoal"] = int(scores["SOCCER_END_SCORE"]["homeScore"])
+                df.at[idx, "totalAwayGoal"] = int(scores["SOCCER_END_SCORE"]["awayScore"])
+            except:
+                continue
+
+    df.to_csv(csv_path, index=False)
+    print("✅ Skorlar güncellendi ve CSV’ye yazıldı.")
 
 if __name__ == "__main__":
-    refresh_scores()
+    ids = get_match_ids()
+    append_matches_to_csv(ids)
+    # update_scores_in_csv()
