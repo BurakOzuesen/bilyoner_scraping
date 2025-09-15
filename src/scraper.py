@@ -4,11 +4,12 @@ import os
 import math
 from datetime import datetime
 from tqdm import tqdm
+from random import shuffle
 
 import warnings
 warnings.filterwarnings("ignore")
 
-CSV_PATH = "data/processed/match_odds_cleaned_20250801.csv"
+CSV_PATH = "data/processed/my.csv"
 KEY_COLS = ["match_date", "match_time", "tournament", "match_id", "homeTeam", "awayTeam",
             "firstHalfHomeGoal", "firstHalfAwayGoal", "totalHomeGoal", "totalAwayGoal",
             "homeCorner", "awayCorner"]
@@ -26,6 +27,7 @@ def get_match_ids():
     resp.raise_for_status()
     data = resp.json()
     match_ids = list(data.get("events", {}).keys())
+    shuffle(match_ids)  # Rastgele sırala
     return match_ids
 
 def fetch_match_odds(match_id, is_live=True, is_popular=False):
@@ -152,6 +154,23 @@ def update_scores_in_csv(csv_path=CSV_PATH):
     print("✅ Skorlar güncellendi ve CSV’ye yazıldı.")
 
 if __name__ == "__main__":
+    
+    # import time
+    # from datetime import datetime
+
+    # # Hedef saat ve dakika
+    # target_hour = 15
+    # target_minute = 1
+
+    # print(f"Bekleniyor... Hedef saat: {target_hour}:{target_minute:02d}")
+
+    # while True:
+    #     now = datetime.now()
+    #     if now.hour == target_hour and now.minute == target_minute:
+    #         print("Şimdi saat 15:01 oldu! 🚀")
+    #         break
+    #     time.sleep(1)  # Her 10 saniyede bir kontrol et
+
     ids = get_match_ids()
     append_matches_to_csv(ids)
-    # update_scores_in_csv()
+    update_scores_in_csv()
