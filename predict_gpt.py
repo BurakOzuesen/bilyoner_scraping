@@ -13,8 +13,8 @@ from datetime import datetime
 CSV_PATH = "match_odds_cleaned_20250801.csv"
 DATA_DIR = "data/processed"
 TOP_K = 100
-OUT_PREFIX = "07092025_gpt"  # change if you like
-SHUFFLE_SEED = 42        # deterministic
+OUT_PREFIX = "2025_09_26_gpt"  # change if you like
+SHUFFLE_SEED = None        # deterministic
 PRINT_SAMPLE = False      # turn on for quick sanity prints
 
 KEY_COLS = [
@@ -74,7 +74,9 @@ def push_if_value(rows: list, test_row: pd.Series, label: str, count: int, odds:
     # count is 0..TOP_K → as percentage
     prob_pct = float(count)  # already percentage because TOP_K=100
     ev = (prob_pct * odds) / 100.0
-    if ev > 1.0:
+
+    # Check
+    if ev > 0.0:
         rows.append({
             "match_date": test_row["match_date"],
             "match_time": test_row["match_time"],
